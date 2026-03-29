@@ -10,7 +10,7 @@ services:
     restart: always
 
   server:
-    image: ghcr.io/${GITHUB_REPO:-oxwar}/server:latest
+    image: ghcr.io/zerohouse/oxwar/server:latest
     environment:
       SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/oxwar
       SPRING_DATASOURCE_USERNAME: oxwar
@@ -22,7 +22,7 @@ services:
     restart: always
 
   client:
-    image: ghcr.io/${GITHUB_REPO:-oxwar}/client:latest
+    image: ghcr.io/zerohouse/oxwar/client:latest
     ports:
       - "${PORT:-80}:80"
     depends_on:

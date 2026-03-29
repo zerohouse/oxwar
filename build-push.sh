@@ -1,7 +1,8 @@
 #!/bin/bash
 set -e
 
-REPO=${1:?Usage: ./build-push.sh <github-user/repo>}
+REPO=$(git remote get-url origin | sed 's|.*github.com/||;s|\.git$||')
+echo "Repo: $REPO"
 
 echo "=== Building server ==="
 docker build -t ghcr.io/$REPO/server:latest ./oxwar
