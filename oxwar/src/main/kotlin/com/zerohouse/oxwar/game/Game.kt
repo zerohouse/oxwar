@@ -43,6 +43,12 @@ class Game(val themeSlug: String, quizList: List<Quiz>) {
         }
     }
 
+    fun renamePlayer(oldId: String, newId: String): Boolean {
+        val player = players.remove(oldId) ?: return false
+        players[newId] = player.copy(id = newId)
+        return true
+    }
+
     fun movePlayer(id: String, posX: Double, posY: Double) {
         players.computeIfPresent(id) { _, p ->
             dirtyPlayers.add(id)
@@ -75,7 +81,9 @@ class Game(val themeSlug: String, quizList: List<Quiz>) {
             val correct = chosen == correctAnswer
             if (correct) {
                 val newStreak = p.streak + 1
-                val newScore = p.score + fib(newStreak)
+                val bonus = minOf(newStreak, 5)
+                val milestoneBonus = if (newStreak >= 10 && newStreak % 10 == 0) 100 else 0
+                val newScore = p.score + bonus + milestoneBonus
                 scores[p.id] = newScore
                 streaks[p.id] = newStreak
                 p.copy(score = newScore, streak = newStreak)
@@ -89,12 +97,6 @@ class Game(val themeSlug: String, quizList: List<Quiz>) {
 
         currentQuizIndex = (currentQuizIndex + 1) % quizzes.size
         return RoundResult(scores, streaks)
-    }
-
-    private fun fib(n: Int): Int {
-        var a = 1; var b = 1
-        repeat(n - 1) { val t = a + b; a = b; b = t }
-        return a
     }
 
     private fun playerChoice(p: Player, optionCount: Int): Int {

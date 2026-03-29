@@ -22,8 +22,8 @@ data class GameEvent(
     val top3: List<TopPlayer>? = null,
 ) {
     companion object {
-        fun sync(myId: String, players: List<Player>, quiz: Quiz, quizIndex: Int, nextQuizAt: Long) =
-            GameEvent("sync", playerId = myId, players = players, question = quiz.question, category = quiz.category, options = quiz.options, quizIndex = quizIndex, nextQuizAt = nextQuizAt)
+        fun sync(myId: String, players: List<Player>, quiz: Quiz, quizIndex: Int, nextQuizAt: Long, top3: List<TopPlayer>? = null) =
+            GameEvent("sync", playerId = myId, players = players, question = quiz.question, category = quiz.category, options = quiz.options, quizIndex = quizIndex, nextQuizAt = nextQuizAt, top3 = top3)
 
         fun playerJoin(player: Player) =
             GameEvent("player_join", player = player)
@@ -39,6 +39,9 @@ data class GameEvent(
 
         fun quizReveal(correctAnswer: Int, explanation: String, scores: Map<String, Int>, streaks: Map<String, Int>, top3: List<TopPlayer>) =
             GameEvent("quiz_reveal", correctAnswer = correctAnswer, message = explanation.ifBlank { null }, scores = scores, streaks = streaks, top3 = top3)
+
+        fun nicknameChange(oldId: String, newId: String) =
+            GameEvent("nickname_change", playerId = oldId, message = newId)
 
         fun chat(playerId: String, message: String) =
             GameEvent("chat", playerId = playerId, message = message)

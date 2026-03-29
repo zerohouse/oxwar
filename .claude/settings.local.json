@@ -29,7 +29,15 @@
       "Bash(node fix2.js)",
       "Bash(rm fix2.js)",
       "Bash(node add-youtubers.js)",
-      "Bash(rm add-youtubers.js)"
+      "Bash(rm add-youtubers.js)",
+      "Bash(node add-detailed-fighters.js)",
+      "Bash(rm add-detailed-fighters.js)",
+      "Bash(node add-results.js)",
+      "Bash(rm add-results.js)",
+      "Bash(node add-blackcup-content.js)",
+      "Bash(rm add-blackcup-content.js)",
+      "Bash(node add-goods-cheer.js)",
+      "Bash(rm add-goods-cheer.js)"
     ]
   }
 }

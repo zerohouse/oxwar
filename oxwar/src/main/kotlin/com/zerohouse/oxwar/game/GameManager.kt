@@ -74,11 +74,16 @@ class GameManager(
         }.shuffled()
     }
 
+    private val log = org.slf4j.LoggerFactory.getLogger(GameManager::class.java)
+
     private fun startPositionBroadcast(room: GameRoom) {
         scope.launch {
             while (rooms.containsKey(room.game.themeSlug)) {
                 delay(100)
                 val dirty = room.game.drainDirtyPositions()
+                if (dirty.isNotEmpty()) {
+                    log.debug("Broadcasting {} moves for {}", dirty.size, room.game.themeSlug)
+                }
                 for ((id, x, y) in dirty) {
                     room.eventFlow.emit(GameEvent.playerMove(id, x, y))
                 }

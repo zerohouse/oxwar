@@ -7,6 +7,7 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.onStart
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.withContext
 import org.springframework.messaging.handler.annotation.MessageMapping
 import org.springframework.messaging.rsocket.RSocketRequester
 import org.springframework.messaging.rsocket.annotation.ConnectMapping
@@ -17,6 +18,7 @@ import kotlinx.coroutines.CoroutineScope
 data class JoinRequest(val theme: String = "default", val uuid: String? = null)
 data class MoveRequest(val posX: Double = 0.5, val posY: Double = 0.5)
 data class ChatRequest(val message: String = "")
+data class NicknameRequest(val nickname: String = "")
 
 @Controller
 class GameController(
@@ -68,8 +70,21 @@ class GameController(
         }.subscribe()
 
         val game = room.game
+        val top3 = withContext(Dispatchers.IO) { gameManager.getTop3(slug) }
         return room.eventFlow.onStart {
-            emit(GameEvent.sync(id, game.players.values.toList(), game.currentQuiz, game.currentQuizIndex, game.nextQuizAt))
+            emit(GameEvent.sync(id, game.players.values.toList(), game.currentQuiz, game.currentQuizIndex, game.nextQuizAt, top3))
+        }
+    }
+
+    @MessageMapping("nickname")
+    suspend fun nickname(data: NicknameRequest, requester: RSocketRequester) {
+        val session = sessions[requester] ?: return
+        val newName = data.nickname.trim().take(20)
+        if (newName.isBlank()) return
+        val oldName = session.playerId
+        if (session.room.game.renamePlayer(oldName, newName)) {
+            sessions[requester] = session.copy(playerId = newName)
+            session.room.eventFlow.emit(GameEvent.nicknameChange(oldName, newName))
         }
     }
 
