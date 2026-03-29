@@ -36,10 +36,6 @@ class AiGenerateController(
         if (apiKey.isBlank()) throw AppException("NO_API_KEY", HttpStatus.SERVICE_UNAVAILABLE, "API 키가 설정되지 않았습니다")
 
         var context = ""
-        if (!req.refUrl.isNullOrBlank()) {
-            val crawled = crawl(req.refUrl)
-            if (crawled.isNotBlank()) context = "\n\n참고 자료:\n$crawled"
-        }
 
         val categoryInstruction = if (!req.category.isNullOrBlank())
             "\n세부 카테고리: \"${req.category}\". 이 카테고리에 맞는 문제만 만들어." else ""
@@ -91,19 +87,6 @@ JSON 배열로만 응답해. 다른 텍스트 없이.
         return json.at("/choices/0/message/content").asText("")
     }
 
-    private suspend fun crawl(url: String): String {
-        val html = try {
-            webClient.get().uri(url).retrieve().awaitBody<String>()
-        } catch (_: Exception) { return "" }
-
-        return html
-            .replace(Regex("<script[^>]*>[\\s\\S]*?</script>"), " ")
-            .replace(Regex("<style[^>]*>[\\s\\S]*?</style>"), " ")
-            .replace(Regex("<[^>]+>"), " ")
-            .replace(Regex("\\s+"), " ")
-            .trim()
-            .take(50000)
-    }
 }
 
 data class AiGenerateRequest(
@@ -111,6 +94,5 @@ data class AiGenerateRequest(
     val category: String? = null,
     val count: Int = 10,
     val model: String = "openai/gpt-5.4-pro",
-    val refUrl: String? = null,
     val customPrompt: String? = null,
 )

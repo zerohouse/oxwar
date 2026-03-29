@@ -76,14 +76,20 @@ class Game(val themeSlug: String, quizList: List<Quiz>) {
         val scores = mutableMapOf<String, Int>()
         val streaks = mutableMapOf<String, Int>()
 
+        // 1패스: 정답/오답 판별
+        val correctIds = mutableSetOf<String>()
+        players.forEach { (_, p) ->
+            if (playerChoice(p, optionCount) == correctAnswer) correctIds.add(p.id)
+        }
+        val wrongCount = players.size - correctIds.size
+
+        // 2패스: 점수 적용 (맞춘 사람에게 틀린 사람 수 보너스)
         players.replaceAll { _, p ->
-            val chosen = playerChoice(p, optionCount)
-            val correct = chosen == correctAnswer
-            if (correct) {
+            if (correctIds.contains(p.id)) {
                 val newStreak = p.streak + 1
-                val bonus = minOf(newStreak, 5)
+                val comboBonus = minOf(newStreak, 5)
                 val milestoneBonus = if (newStreak >= 10 && newStreak % 10 == 0) 100 else 0
-                val newScore = p.score + bonus + milestoneBonus
+                val newScore = p.score + (comboBonus * wrongCount) + milestoneBonus
                 scores[p.id] = newScore
                 streaks[p.id] = newStreak
                 p.copy(score = newScore, streak = newStreak)
