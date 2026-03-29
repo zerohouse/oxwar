@@ -5,8 +5,10 @@ services:
       POSTGRES_DB: oxwar
       POSTGRES_USER: oxwar
       POSTGRES_PASSWORD: ${DB_PASSWORD:-oxwar}
+    ports:
+      - "5432:5432"
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - oxwar_pgdata:/var/lib/postgresql/data
     restart: always
 
   server:
@@ -30,4 +32,4 @@ services:
     restart: always
 
 volumes:
-  pgdata:
+  oxwar_pgdata:
