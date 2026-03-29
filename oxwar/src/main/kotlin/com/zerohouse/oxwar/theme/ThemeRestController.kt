@@ -61,6 +61,7 @@ class ThemeRestController(
                 options = com.fasterxml.jackson.module.kotlin.jacksonObjectMapper().writeValueAsString(q.options),
                 answer = q.answer,
                 category = q.category,
+                explanation = q.explanation,
                 sortOrder = i,
             ))
         }
@@ -86,7 +87,7 @@ class ThemeRestController(
 
 data class CreateThemeRequest(val slug: String = "", val title: String = "")
 data class UpdateQuizzesRequest(val title: String? = null, val categories: List<String>? = null, val defaultPrompt: String? = null, val quizzes: List<QuizDto> = emptyList())
-data class QuizDto(val question: String = "", val options: List<String> = listOf("", ""), val answer: Int = 0, val category: String = "")
+data class QuizDto(val question: String = "", val options: List<String> = listOf("", ""), val answer: Int = 0, val category: String = "", val explanation: String = "")
 data class ThemeDto(val slug: String, val title: String, val quizCount: Int, val editable: Boolean)
 data class ThemeDetailDto(val slug: String, val title: String, val categories: List<String>, val defaultPrompt: String, val editable: Boolean, val quizzes: List<QuizDto>)
 
@@ -99,5 +100,5 @@ fun ThemeEntity.toDetailDto(editable: Boolean) = ThemeDetailDto(slug, title, par
     val opts: List<String> = try {
         com.fasterxml.jackson.module.kotlin.jacksonObjectMapper().readValue(it.options, com.fasterxml.jackson.module.kotlin.jacksonTypeRef<List<String>>())
     } catch (_: Exception) { listOf("O", "X") }
-    QuizDto(it.question, opts, it.answer, it.category)
+    QuizDto(it.question, opts, it.answer, it.category, it.explanation)
 })

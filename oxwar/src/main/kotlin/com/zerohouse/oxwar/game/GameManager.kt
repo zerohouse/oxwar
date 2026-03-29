@@ -70,7 +70,7 @@ class GameManager(
             val opts: List<String> = try {
                 mapper.readValue(entity.options, com.fasterxml.jackson.module.kotlin.jacksonTypeRef<List<String>>())
             } catch (_: Exception) { listOf("O", "X") }
-            Quiz(entity.question, opts, entity.answer, entity.category)
+            Quiz(entity.question, opts, entity.answer, entity.category, entity.explanation)
         }.shuffled()
     }
 
@@ -87,7 +87,7 @@ class GameManager(
     }
 
     private val ANSWER_TIME = 12_000L
-    private val REVEAL_TIME = 3_000L
+    private val REVEAL_TIME = 5_000L
 
     private fun startRoundLoop(room: GameRoom) {
         val game = room.game
@@ -105,7 +105,7 @@ class GameManager(
                     continue
                 }
                 emptyRounds = 0
-                val correctAnswer = game.currentQuiz.answer
+                val quiz = game.currentQuiz
                 val result = game.nextRound()
 
                 // DB 리더보드 업데이트
@@ -113,7 +113,7 @@ class GameManager(
                 val top3 = withContext(Dispatchers.IO) { getTop3(game.themeSlug) }
 
                 game.nextQuizAt = 0
-                room.eventFlow.emit(GameEvent.quizReveal(correctAnswer, result.scores, result.streaks, top3))
+                room.eventFlow.emit(GameEvent.quizReveal(quiz.answer, quiz.explanation, result.scores, result.streaks, top3))
 
                 delay(REVEAL_TIME)
 

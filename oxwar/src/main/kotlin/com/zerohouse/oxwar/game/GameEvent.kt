@@ -37,8 +37,8 @@ data class GameEvent(
         fun quizNext(quiz: Quiz, quizIndex: Int, scores: Map<String, Int>, nextQuizAt: Long) =
             GameEvent("quiz_next", question = quiz.question, category = quiz.category, options = quiz.options, quizIndex = quizIndex, scores = scores, nextQuizAt = nextQuizAt)
 
-        fun quizReveal(correctAnswer: Int, scores: Map<String, Int>, streaks: Map<String, Int>, top3: List<TopPlayer>) =
-            GameEvent("quiz_reveal", correctAnswer = correctAnswer, scores = scores, streaks = streaks, top3 = top3)
+        fun quizReveal(correctAnswer: Int, explanation: String, scores: Map<String, Int>, streaks: Map<String, Int>, top3: List<TopPlayer>) =
+            GameEvent("quiz_reveal", correctAnswer = correctAnswer, message = explanation.ifBlank { null }, scores = scores, streaks = streaks, top3 = top3)
 
         fun chat(playerId: String, message: String) =
             GameEvent("chat", playerId = playerId, message = message)

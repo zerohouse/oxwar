@@ -52,8 +52,9 @@ class AiGenerateController(
 
         val prompt = """"${req.topic}" 주제로 퀴즈 ${req.count}개를 만들어줘.$categoryInstruction$context$refInstruction$customPart
 각 문제마다 2지선다 또는 4지선다를 적절히 판단해서 만들어. O/X로 판별 가능한 단순 문제는 2지선다, 여러 보기가 필요한 문제는 4지선다로.
+각 문제에 1~2문장의 간단한 해설(explanation)을 포함해.
 JSON 배열로만 응답해. 다른 텍스트 없이.
-형식: [{"question":"질문","options":["보기1","보기2"] 또는 ["보기1","보기2","보기3","보기4"],"answer":정답인덱스(0부터)}]"""
+형식: [{"question":"질문","options":["보기1","보기2"] 또는 ["보기1","보기2","보기3","보기4"],"answer":정답인덱스(0부터),"explanation":"해설"}]"""
 
         val content = callOpenRouter(req.model, prompt)
         val match = Regex("\\[\\s*\\{[\\s\\S]*}\\s*]").find(content)

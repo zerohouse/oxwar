@@ -24,6 +24,9 @@ class QuizEntity(
     @Column(nullable = false)
     var category: String = "",
 
+    @Column(nullable = false, columnDefinition = "TEXT")
+    var explanation: String = "",
+
     @Column(nullable = false)
     var sortOrder: Int = 0,
 

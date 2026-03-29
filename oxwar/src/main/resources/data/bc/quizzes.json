@@ -8,7 +8,8 @@
       "2022년 6월 18일"
     ],
     "answer": 3,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "블랙컴뱃은 2022년 6월 18일 블랙컴뱃 02 대회와 함께 종합격투기 단체로 정식 출범했다."
   },
   {
     "question": "블랙컴뱃의 운영사 이름은?",
@@ -19,7 +20,8 @@
       "무채색필름"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "이데아 파라곤이 블랙컴뱃을 운영하며, 무채색필름은 유튜브 채널명이다."
   },
   {
     "question": "블랙컴뱃 대표 박평화의 별명은?",
@@ -30,7 +32,8 @@
       "갓파더"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "박평화는 '검정'이라는 별명으로 활동하며 언더그라운드 챔피언이기도 하다."
   },
   {
     "question": "블랙컴뱃의 유튜브 채널명은?",
@@ -41,7 +44,8 @@
       "파이트클럽"
     ],
     "answer": 2,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "블랙컴뱃의 유튜브 채널은 '무채색필름'이며 2018년부터 활동을 시작했다."
   },
   {
     "question": "무채색필름은 몇 년부터 유튜브 활동을 시작했는가?",
@@ -52,7 +56,8 @@
       "2016년"
     ],
     "answer": 0,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "무채색필름은 2018년부터 유튜브에서 격투기 콘텐츠를 제작하기 시작했다."
   },
   {
     "question": "블랙컴뱃 본사가 위치한 서울 자치구는?",
@@ -63,7 +68,8 @@
       "용산구"
     ],
     "answer": 0,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "블랙컴뱃 본사는 서울시 성동구 서울숲2길 35에 위치한다."
   },
   {
     "question": "블랙컴뱃 선수 진출 체계의 첫 단계는?",
@@ -74,7 +80,8 @@
       "라이즈"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "비긴즈가 첫 단계이며, 비긴즈→챔스→라이즈→넘버링 순서로 진출한다."
   },
   {
     "question": "블랙컴뱃 선수 진출 체계의 올바른 순서는?",
@@ -85,7 +92,8 @@
       "비긴즈→라이즈→챔스→넘버링"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "비긴즈(데뷔)→챔스(팀전)→라이즈(재기)→넘버링(메인) 순서이다."
   },
   {
     "question": "박평화 대표는 대한MMA연맹에서 어떤 직책을 맡았는가?",
@@ -96,7 +104,8 @@
       "회장"
     ],
     "answer": 0,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "정답은 수석부회장이다."
   },
   {
     "question": "블랙컴뱃의 운영사는 무채색필름이다.",
@@ -105,7 +114,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "운영사는 이데아 파라곤이며, 무채색필름은 유튜브 채널명이다."
   },
   {
     "question": "블랙컴뱃에서 코마키네 타카히로가 챔피언이 된 체급은?",
@@ -116,7 +126,8 @@
       "라이트급"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "코마키네 타카히로(탱크)는 블랙컴뱃 15에서 플라이급 타이틀을 획득했다."
   },
   {
     "question": "블랙컴뱃에서 김재웅이 챔피언이 된 체급은?",
@@ -127,7 +138,8 @@
       "라이트급"
     ],
     "answer": 2,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "김재웅(투신)은 블랙컴뱃 밴텀급 챔피언이다."
   },
   {
     "question": "'시라소니'라는 별명을 가진 페더급 챔피언은?",
@@ -138,7 +150,8 @@
       "오일학"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "방성혁은 '시라소니'라는 별명으로 페더급 챔피언이다."
   },
   {
     "question": "라이트급 챔피언 정한국의 별명은?",
@@ -149,7 +162,8 @@
       "킹콩"
     ],
     "answer": 2,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "정한국은 '캡틴 코리아'라는 별명으로 라이트급 챔피언이다."
   },
   {
     "question": "Road to UFC 우승으로 UFC와 계약한 블랙컴뱃 출신 선수는?",
@@ -160,7 +174,8 @@
       "박원식"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "유수영(유짓수)은 블랙컴뱃에서 활약 후 Road to UFC 우승으로 UFC와 계약했다."
   },
   {
     "question": "초대 플라이급 챔피언 이준영이 타이틀을 반납한 이유는?",
@@ -171,7 +186,8 @@
       "UFC 계약"
     ],
     "answer": 2,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "이준영(배드가이)은 블랙컴뱃 07을 앞두고 교통사고로 부상당해 타이틀을 반납했다."
   },
   {
     "question": "초대 아톰급 챔피언 박시윤의 별명은?",
@@ -182,7 +198,8 @@
       "유짓수"
     ],
     "answer": 2,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "박시윤은 '쌍칼'이라는 별명으로 초대 아톰급 챔피언이었으며 2024년 은퇴했다."
   },
   {
     "question": "양해준의 별명은?",
@@ -193,7 +210,8 @@
       "맘모스"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "양해준은 'The Big Guy'라는 별명으로 블랙컴뱃 헤비급에서 활동한다."
   },
   {
     "question": "언더그라운드 챔피언의 별명 'GodFather'는 누구인가?",
@@ -204,7 +222,8 @@
       "박평화(검정)"
     ],
     "answer": 3,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "GodFather는 블랙컴뱃 대표 박평화(검정)의 언더그라운드 타이틀 별명이다."
   },
   {
     "question": "블랙컴뱃 선수 펜리르(Daniiar Toichubek)의 국적은?",
@@ -215,7 +234,8 @@
       "미국"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "펜리르는 카자흐스탄 출신으로 밴텀급에서 활동 중이다."
   },
   {
     "question": "블랙컴뱃의 체급 수는 총 몇 개인가?",
@@ -226,7 +246,8 @@
       "9개"
     ],
     "answer": 3,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "아톰·스트로·플라이·밴텀·페더·라이트·웰터·미들·헤비 총 9개 체급이다."
   },
   {
     "question": "블랙컴뱃 아톰급의 체중 상한은?",
@@ -237,7 +258,8 @@
       "52.2kg"
     ],
     "answer": 1,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "아톰급은 48kg 이하이며 블랙컴뱃에서 가장 가벼운 체급이다."
   },
   {
     "question": "블랙컴뱃 헤비급의 체중 상한은?",
@@ -248,7 +270,8 @@
       "110kg"
     ],
     "answer": 0,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "헤비급은 84.1~120kg으로 블랙컴뱃에서 가장 무거운 체급이다."
   },
   {
     "question": "블랙컴뱃 경기의 기본 구성은?",
@@ -259,7 +282,8 @@
       "5분 3라운드"
     ],
     "answer": 3,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "블랙컴뱃은 5분 3라운드를 기본으로 하며 라운드 간 1분 휴식이다."
   },
   {
     "question": "페더급 챔피언 방성혁의 별명은 캡틴 코리아이다.",
@@ -268,7 +292,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "방성혁의 별명은 시라소니이다. 캡틴 코리아는 라이트급 정한국."
   },
   {
     "question": "블랙컴뱃에서 도핑테스트를 시작한 대회는?",
@@ -279,7 +304,8 @@
       "블랙컴뱃 05"
     ],
     "answer": 0,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "블랙컴뱃 11부터 불시 도핑테스트가 시작되었다."
   },
   {
     "question": "블랙컴뱃이 채택한 채점 방식은?",
@@ -290,7 +316,8 @@
       "감점 방식"
     ],
     "answer": 0,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "10-point must system은 매 라운드 승자에게 10점을 주는 방식이다."
   },
   {
     "question": "무승부 시 연장전은 몇 분 몇 라운드인가?",
@@ -301,7 +328,8 @@
       "5분 2라운드"
     ],
     "answer": 0,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "3라운드 후 무승부 시 5분 1라운드 연장전이 진행된다."
   },
   {
     "question": "계체 허용 오차는 얼마인가? (타이틀전 제외)",
@@ -312,7 +340,8 @@
       "1kg"
     ],
     "answer": 0,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "타이틀전과 계약 체중을 제외하고 500g까지 허용된다."
   },
   {
     "question": "계체 2kg 초과 시 파이트머니 삭감 비율은?",
@@ -323,7 +352,8 @@
       "80%"
     ],
     "answer": 3,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "2kg 초과 시 파이트머니 80% 삭감 + 모든 라운드 -2점 감점이다."
   },
   {
     "question": "블랙컴뱃은 파이트 매트릭스에 등재된 격투기 단체이다.",
@@ -332,7 +362,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "블랙컴뱃은 파이트 매트릭스 세계 격투기 단체 랭킹에 등재되어 있다."
   },
   {
     "question": "블랙컴뱃은 아시아권 상위 격투기 단체로 분류된다.",
@@ -341,7 +372,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "블랙컴뱃은 아시아 12위권으로 국내 단체 중 가장 높은 랭킹이다."
   },
   {
     "question": "블랙컴뱃 14에서 엔드게임은 단체 해체를 의미한다.",
@@ -350,7 +382,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "엔드게임은 1부 종료를 의미하며, 15(파라벨룸)부터 2부가 시작되었다."
   },
   {
     "question": "블랙컴뱃은 설립 후 비교적 짧은 기간에 세계랭킹 선수를 다수 보유하게 되었다.",
@@ -359,7 +392,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "설립 약 3년 4개월 만에 세계랭킹 선수 50명을 보유했다."
   },
   {
     "question": "블랙컴뱃의 시상식 이름은?",
@@ -370,7 +404,8 @@
       "글로리아 어워드"
     ],
     "answer": 3,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "글로리아 어워드는 블랙컴뱃의 공식 시상식이다."
   },
   {
     "question": "초대 아톰급 챔피언 박시윤의 별명은 배드가이이다.",
@@ -379,7 +414,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "박시윤의 별명은 쌍칼이다. 배드가이는 이준영."
   },
   {
     "question": "챔피언스 리그는 각 팀당 3체급 매치로 구성된다.",
@@ -388,7 +424,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "각 팀당 5체급 매치로 구성된다."
   },
   {
     "question": "블랙컴뱃은 자체 훈련센터인 '블랙컴뱃짐'을 운영하고 있다.",
@@ -397,7 +434,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "블랙컴뱃짐은 블랙컴뱃이 직접 운영하는 공식 훈련센터이다."
   },
   {
     "question": "블랙컴뱃 넘버링 14의 부제가 '엔드게임'인 이유는?",
@@ -408,7 +446,8 @@
       "최종 결산"
     ],
     "answer": 0,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "엔드게임은 블랙컴뱃 1부의 종료를 의미하며, 15(파라벨룸)부터 2부가 시작됐다."
   },
   {
     "question": "블랙컴뱃 넘버링 15의 부제 '파라벨룸'은 무엇을 의미하는가?",
@@ -419,7 +458,8 @@
       "복수전"
     ],
     "answer": 1,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "파라벨룸은 라틴어로 '전쟁을 준비하라'는 뜻이며 2부의 시작을 알렸다."
   },
   {
     "question": "블랙컴뱃 01이 개최된 장소는?",
@@ -430,7 +470,8 @@
       "고려대 화정체육관"
     ],
     "answer": 0,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 서울 강남구 몬스터짐 아레나에서 열린 첫 넘버링 대회이다."
   },
   {
     "question": "블랙컴뱃 01의 메인이벤트에서 검정의 상대는?",
@@ -441,7 +482,8 @@
       "정도한"
     ],
     "answer": 2,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01 메인이벤트에서 검정은 2014 인천 아시안게임 복싱 금메달리스트 신종훈과 대결했다."
   },
   {
     "question": "블랙컴뱃 01에서 검정의 상대 신종훈은 어떤 종목 출신인가?",
@@ -452,7 +494,8 @@
       "유도"
     ],
     "answer": 0,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "신종훈은 복싱 선수로 2014 인천 아시안게임 금메달리스트이다."
   },
   {
     "question": "신종훈은 어느 대회의 금메달리스트인가?",
@@ -463,7 +506,8 @@
       "2014 인천 아시안게임"
     ],
     "answer": 3,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "신종훈은 2014 인천 아시안게임 복싱 금메달을 획득했다."
   },
   {
     "question": "블랙컴뱃 01은 몇 년에 개최되었는가?",
@@ -474,7 +518,8 @@
       "2024년"
     ],
     "answer": 1,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 2022년 2월 24일에 개최되었다."
   },
   {
     "question": "블랙컴뱃 01은 블랙컴뱃 단체의 첫 번째 넘버링 대회이다.",
@@ -483,7 +528,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 넘버링 시리즈의 시작이자 단체의 첫 공식 대회이다."
   },
   {
     "question": "블랙컴뱃 01의 개최월은?",
@@ -494,7 +540,8 @@
       "6월"
     ],
     "answer": 1,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 2022년 2월에 개최되었다."
   },
   {
     "question": "블랙컴뱃 01이 개최된 서울 자치구는?",
@@ -505,7 +552,8 @@
       "송파구"
     ],
     "answer": 0,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 서울 강남구 몬스터짐 아레나에서 열렸다."
   },
   {
     "question": "블랙컴뱃 01의 메인이벤트는 타이틀전이었다.",
@@ -514,7 +562,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 첫 대회로 아직 타이틀전 체계가 없었다."
   },
   {
     "question": "블랙컴뱃 대표 박평화의 별명은 블랙이다.",
@@ -523,7 +572,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "박평화의 별명은 검정이다."
   },
   {
     "question": "블랙컴뱃 02가 개최된 장소는?",
@@ -534,7 +584,8 @@
       "일산 킨텍스"
     ],
     "answer": 2,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "블랙컴뱃 02는 인천 파라다이스 시티 호텔에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 02의 메인이벤트에서 검정의 상대는?",
@@ -545,7 +596,8 @@
       "신종훈"
     ],
     "answer": 0,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "블랙컴뱃 02 메인이벤트에서 검정은 무에타이 챔피언 정도한과 대결했다."
   },
   {
     "question": "블랙컴뱃 02에서 정도한은 어떤 종목 챔피언 출신인가?",
@@ -556,7 +608,8 @@
       "유도"
     ],
     "answer": 2,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "정도한은 무에타이 챔피언 출신으로 프로오디션 시즌1 팀장이기도 했다."
   },
   {
     "question": "블랙컴뱃 02의 개최 날짜는?",
@@ -567,7 +620,8 @@
       "2022년 12월 31일"
     ],
     "answer": 0,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "2022년 6월 18일, 블랙컴뱃 정식 출범일과 같은 날 개최되었다."
   },
   {
     "question": "양해준은 Road FC 미들급 챔피언 출신이다.",
@@ -576,7 +630,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "양해준은 Road FC 미들급 챔피언 출신으로 블랙컴뱃 헤비급에서 활동한다."
   },
   {
     "question": "블랙컴뱃 02에 출전한 프로오디션 시즌1 출신 선수는 몇 명인가?",
@@ -587,7 +642,8 @@
       "10명"
     ],
     "answer": 2,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "우승자 곰주먹과 유짓수를 포함해 7명이 블랙컴뱃 02에 출전했다."
   },
   {
     "question": "무채색필름은 2020년부터 유튜브 활동을 시작했다.",
@@ -596,7 +652,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "무채색필름은 2018년부터 유튜브 활동을 시작했다."
   },
   {
     "question": "블랙컴뱃 02가 열린 도시는?",
@@ -607,7 +664,8 @@
       "일산"
     ],
     "answer": 1,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "블랙컴뱃 02는 인천 중구 파라다이스 시티에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 02의 코메인 이벤트는 어떤 체급 타이틀전이었는가?",
@@ -618,7 +676,8 @@
       "라이트급"
     ],
     "answer": 3,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "프로오디션 우승자 곰주먹과 유짓수의 라이트급 타이틀전이 코메인이었다."
   },
   {
     "question": "정도한은 프로오디션 시즌1에서 팀장을 맡았다.",
@@ -627,7 +686,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "정도한은 검정과 함께 프로오디션 시즌1의 두 팀장 중 한 명이었다."
   },
   {
     "question": "블랙컴뱃 03이 개최된 장소는?",
@@ -638,7 +698,8 @@
       "서울 몬스터짐"
     ],
     "answer": 1,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03은 인천 파라다이스 시티 호텔에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 03의 메인이벤트 체급은?",
@@ -649,7 +710,8 @@
       "플라이급"
     ],
     "answer": 0,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03 메인이벤트는 양해준 vs 최원준의 중량급 경기였다."
   },
   {
     "question": "블랙컴뱃 03의 메인이벤트에 출전한 양해준은 어떤 단체 챔피언 출신인가?",
@@ -660,7 +722,8 @@
       "Zeus FC"
     ],
     "answer": 0,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "양해준은 Road FC 미들급 챔피언 출신이다."
   },
   {
     "question": "블랙컴뱃 03의 개최 날짜는?",
@@ -671,7 +734,8 @@
       "2023년 2월 4일"
     ],
     "answer": 0,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03은 2022년 10월 22일에 개최되었다."
   },
   {
     "question": "블랙컴뱃 03에서 양해준의 상대는?",
@@ -682,7 +746,8 @@
       "오일학"
     ],
     "answer": 0,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "양해준의 상대는 최원준이었으며 중량급 타이틀전이었다."
   },
   {
     "question": "블랙컴뱃 03은 챔피언스 리그가 시작된 대회이다.",
@@ -691,7 +756,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03부터 챔피언스 리그 팀전이 함께 시작되었다."
   },
   {
     "question": "블랙컴뱃 03이 열린 연도는?",
@@ -702,7 +768,8 @@
       "2021년"
     ],
     "answer": 2,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03은 2022년에 개최되었다."
   },
   {
     "question": "신종훈은 유도 금메달리스트이다.",
@@ -711,7 +778,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "신종훈은 복싱 금메달리스트이다 (2014 인천 아시안게임)."
   },
   {
     "question": "양해준은 Road FC에서 어떤 체급 챔피언이었는가?",
@@ -722,7 +790,8 @@
       "미들급"
     ],
     "answer": 3,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "양해준은 Road FC 미들급 챔피언 출신이다."
   },
   {
     "question": "블랙컴뱃 03이 개최된 달은?",
@@ -733,7 +802,8 @@
       "12월"
     ],
     "answer": 1,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03은 2022년 10월에 개최되었다."
   },
   {
     "question": "블랙컴뱃 04의 개최 날짜는?",
@@ -744,7 +814,8 @@
       "2022년 12월 31일"
     ],
     "answer": 3,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "블랙컴뱃 04는 2022년 12월 31일 연말에 개최되었다."
   },
   {
     "question": "블랙컴뱃 04의 메인이벤트 체급은?",
@@ -755,7 +826,8 @@
       "페더급"
     ],
     "answer": 3,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "페더급 타이틀전(유수영 vs 이진세)이 메인이벤트였다."
   },
   {
     "question": "블랙컴뱃 04 페더급 타이틀전에 출전한 유수영의 별명은?",
@@ -766,7 +838,8 @@
       "유짓수"
     ],
     "answer": 3,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "유수영의 별명은 유짓수이며, Zeus FC 밴텀급 챔피언 출신이다."
   },
   {
     "question": "블랙컴뱃 04에서 유수영의 상대는?",
@@ -777,7 +850,8 @@
       "이진세"
     ],
     "answer": 3,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "이진세(빡세)가 유수영(유짓수)의 상대였다."
   },
   {
     "question": "이진세의 별명은?",
@@ -788,7 +862,8 @@
       "탱크"
     ],
     "answer": 2,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "이진세의 별명은 빡세이며 밴텀급에서 활동한다."
   },
   {
     "question": "블랙컴뱃 04가 열린 장소는?",
@@ -799,7 +874,8 @@
       "일산 킨텍스"
     ],
     "answer": 2,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "인천 파라다이스 시티 클럽 크로마에서 개최되었다."
   },
   {
     "question": "유수영은 Road to UFC 우승으로 UFC와 계약했다.",
@@ -808,7 +884,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "유수영(유짓수)은 블랙컴뱃 밴텀급/페더급 챔피언 역임 후 Road to UFC로 UFC에 진출했다."
   },
   {
     "question": "블랙컴뱃 04의 부제에서 'NEW KINGS'가 의미하는 것은?",
@@ -819,7 +896,8 @@
       "새로운 체급 신설"
     ],
     "answer": 0,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "여러 체급의 초대 챔피언이 결정되는 시기여서 'NEW KINGS'라는 부제가 붙었다."
   },
   {
     "question": "블랙컴뱃 04가 개최된 구체적 장소는 인천 파라다이스 시티의 어디인가?",
@@ -830,7 +908,8 @@
       "클럽 크로마"
     ],
     "answer": 3,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "파라다이스 시티 내 클럽 크로마에서 개최되었다."
   },
   {
     "question": "코마키네 타카히로의 별명은 탱크이다.",
@@ -839,7 +918,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "코마키네 타카히로(탱크)는 일본 출신으로 블랙컴뱃 플라이급 챔피언이다."
   },
   {
     "question": "블랙컴뱃 05에서 어떤 국가 단체와 대항전이 열렸는가?",
@@ -850,7 +930,8 @@
       "일본"
     ],
     "answer": 3,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "블랙컴뱃 05에서 일본 단체 Deep과 첫 한일 대항전이 열렸다."
   },
   {
     "question": "블랙컴뱃 05에서 대항전 상대 단체는?",
@@ -861,7 +942,8 @@
       "Rizin"
     ],
     "answer": 2,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "일본의 종합격투기 단체 Deep과 대항전을 펼쳤다."
   },
   {
     "question": "블랙컴뱃 05의 개최 장소는?",
@@ -872,7 +954,8 @@
       "서울 몬스터짐"
     ],
     "answer": 1,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "수원 컨벤션 센터 전시홀 A에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 05의 개최 날짜는?",
@@ -883,7 +966,8 @@
       "2023년 4월 15일"
     ],
     "answer": 1,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "2023년 2월 4일에 개최되었다."
   },
   {
     "question": "블랙컴뱃 05는 2023년 첫 번째 넘버링 대회였다.",
@@ -892,7 +976,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "블랙컴뱃 05는 2023년의 첫 넘버링 대회였다."
   },
   {
     "question": "블랙컴뱃 05에서 대항전 상대인 Deep은 어느 나라 단체인가?",
@@ -903,7 +988,8 @@
       "일본"
     ],
     "answer": 3,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "Deep은 일본의 대표적인 종합격투기 단체이다."
   },
   {
     "question": "블랙컴뱃 13은 인천 남동체육관에서 개최되었다.",
@@ -912,7 +998,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "블랙컴뱃 13은 서울 화정체육관에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 05가 열린 도시는?",
@@ -923,7 +1010,8 @@
       "일산"
     ],
     "answer": 1,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "수원 컨벤션 센터에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 05는 몇 년에 개최되었는가?",
@@ -934,7 +1022,8 @@
       "2023년"
     ],
     "answer": 3,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "2023년에 개최되었다."
   },
   {
     "question": "블랙컴뱃의 첫 한일전은 블랙컴뱃 05에서 열렸다.",
@@ -943,7 +1032,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "블랙컴뱃 05에서 일본 Deep과의 첫 한일 대항전이 열렸다."
   },
   {
     "question": "블랙컴뱃 06은 몇 년에 개최되었는가?",
@@ -954,16 +1044,8 @@
       "2025년"
     ],
     "answer": 2,
-    "category": "넘버링 06: BLACK CHESS"
-  },
-  {
-    "question": "블랙컴뱃 06은 넘버링 시리즈의 여섯 번째 대회이다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 06: BLACK CHESS"
+    "category": "넘버링 06: BLACK CHESS",
+    "explanation": "2023년에 개최되었다."
   },
   {
     "question": "블랙컴뱃의 체급 수는 총 7개이다.",
@@ -972,7 +1054,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "블랙컴뱃의 체급은 총 9개이다."
   },
   {
     "question": "블랙컴뱃 06은 2023년에 열린 두 번째 넘버링 대회이다.",
@@ -981,7 +1064,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 06: BLACK CHESS"
+    "category": "넘버링 06: BLACK CHESS",
+    "explanation": "블랙컴뱃 05 이후 2023년에 두 번째로 열린 넘버링 대회이다."
   },
   {
     "question": "블랙컴뱃에서 체스를 테마로 한 넘버링 대회는?",
@@ -992,16 +1076,8 @@
       "07"
     ],
     "answer": 0,
-    "category": "넘버링 06: BLACK CHESS"
-  },
-  {
-    "question": "블랙컴뱃 06은 블랙컴뱃 05 이후에 열린 대회이다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 06: BLACK CHESS"
+    "category": "넘버링 06: BLACK CHESS",
+    "explanation": "블랙컴뱃 06의 부제가 BLACK CHESS이다."
   },
   {
     "question": "블랙컴뱃 06에서는 타이틀전이 포함되어 있었다.",
@@ -1010,18 +1086,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 06: BLACK CHESS"
-  },
-  {
-    "question": "블랙컴뱃 06까지 2023년에 개최된 넘버링 대회 수는?",
-    "options": [
-      "2개",
-      "3개",
-      "1개",
-      "4개"
-    ],
-    "answer": 0,
-    "category": "넘버링 06: BLACK CHESS"
+    "category": "넘버링 06: BLACK CHESS",
+    "explanation": "블랙컴뱃 06에서도 타이틀전이 포함된 경기가 열렸다."
   },
   {
     "question": "챔피언스 리그는 총 4시즌 진행되었다.",
@@ -1030,7 +1096,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "챔피언스 리그는 총 3시즌(2022-23, 2023-24, 2024-25) 진행되었다."
   },
   {
     "question": "블랙컴뱃 06에는 해외 선수가 출전했다.",
@@ -1039,7 +1106,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 06: BLACK CHESS"
+    "category": "넘버링 06: BLACK CHESS",
+    "explanation": "블랙컴뱃 06에도 해외 선수가 출전했다."
   },
   {
     "question": "블랙컴뱃 07의 개최 장소는?",
@@ -1050,7 +1118,8 @@
       "인천 파라다이스 시티"
     ],
     "answer": 1,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "일산 킨텍스 제2전시장에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 07은 몇 년 몇 월에 개최되었는가?",
@@ -1061,7 +1130,8 @@
       "2023년 9월"
     ],
     "answer": 2,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "2023년 7월에 개최되었다."
   },
   {
     "question": "초대 플라이급 챔피언 이준영은 은퇴로 타이틀을 반납했다.",
@@ -1070,7 +1140,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "이준영은 교통사고 부상으로 타이틀을 반납했다."
   },
   {
     "question": "블랙컴뱃 15는 2024년에 개최되었다.",
@@ -1079,7 +1150,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "블랙컴뱃 15는 2025년에 개최되었다."
   },
   {
     "question": "블랙컴뱃 07에서 대체 투입된 선수의 별명은?",
@@ -1090,7 +1162,8 @@
       "유짓수"
     ],
     "answer": 1,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "바이퍼(김성웅)가 교통사고로 빠진 이준영 대신 투입되었다."
   },
   {
     "question": "블랙컴뱃 07은 2023년에 개최되었다.",
@@ -1099,7 +1172,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "블랙컴뱃 07은 2023년 7월에 일산 킨텍스에서 개최되었다."
   },
   {
     "question": "일산 킨텍스에서 열린 블랙컴뱃 넘버링 대회는?",
@@ -1110,7 +1184,8 @@
       "07"
     ],
     "answer": 3,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "정답은 07이다."
   },
   {
     "question": "블랙컴뱃 07에서 대체 투입된 선수의 별명은 곰주먹이다.",
@@ -1119,18 +1194,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 07"
-  },
-  {
-    "question": "블랙컴뱃 07까지 2023년에 개최된 넘버링 대회 수는?",
-    "options": [
-      "2개",
-      "3개",
-      "1개",
-      "4개"
-    ],
-    "answer": 1,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "대체 투입된 선수는 바이퍼(김성웅)이다."
   },
   {
     "question": "블랙컴뱃 07이 열린 킨텍스는 어디에 위치하는가?",
@@ -1141,7 +1206,8 @@
       "서울"
     ],
     "answer": 0,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "킨텍스는 경기도 고양시(일산)에 위치한다."
   },
   {
     "question": "블랙컵은 개인 토너먼트 형식이다.",
@@ -1150,7 +1216,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "블랙컵은 국가별 MMA 대항전이다."
   },
   {
     "question": "블랙컴뱃 08의 일본 원정 경기는 Deep의 홈에서 열렸다.",
@@ -1159,7 +1226,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 08"
+    "category": "넘버링 08",
+    "explanation": "블랙컴뱃 08은 Deep의 홈에서 열린 일본 원정 대항전이었다."
   },
   {
     "question": "블랙컴뱃 08은 몇 년에 개최되었는가?",
@@ -1170,7 +1238,8 @@
       "2022년"
     ],
     "answer": 2,
-    "category": "넘버링 08"
+    "category": "넘버링 08",
+    "explanation": "정답은 2023년이다."
   },
   {
     "question": "블랙컴뱃 08은 해외에서 열린 넘버링 대회이었다.",
@@ -1179,7 +1248,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 08"
+    "category": "넘버링 08",
+    "explanation": "블랙컴뱃 08은 일본 Deep의 홈에서 열린 해외 원정 대회였다."
   },
   {
     "question": "블랙컴뱃 08에서 대항전 상대 국가는?",
@@ -1190,7 +1260,8 @@
       "태국"
     ],
     "answer": 1,
-    "category": "넘버링 08"
+    "category": "넘버링 08",
+    "explanation": "정답은 일본이다."
   },
   {
     "question": "블랙컴뱃 본사는 서울시 강남구에 위치한다.",
@@ -1199,7 +1270,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "블랙컴뱃 본사는 서울시 성동구 서울숲2길 35에 위치한다."
   },
   {
     "question": "라이트급 챔피언 정한국의 별명은 시라소니이다.",
@@ -1208,7 +1280,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "정한국의 별명은 캡틴 코리아이다. 시라소니는 페더급 방성혁."
   },
   {
     "question": "이진세의 별명은 투신이다.",
@@ -1217,7 +1290,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "이진세의 별명은 빡세이다. 투신은 김재웅."
   },
   {
     "question": "박평화는 대한MMA연맹 회장을 맡았다.",
@@ -1226,18 +1300,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
-  },
-  {
-    "question": "블랙컴뱃 08까지 2023년에 개최된 넘버링 대회 수는?",
-    "options": [
-      "5개",
-      "4개",
-      "2개",
-      "3개"
-    ],
-    "answer": 1,
-    "category": "넘버링 08"
+    "category": "역사/조직",
+    "explanation": "박평화는 대한MMA연맹 수석부회장을 맡았다."
   },
   {
     "question": "블랙컴뱃 09가 개최된 장소는?",
@@ -1248,7 +1312,8 @@
       "일산 킨텍스"
     ],
     "answer": 0,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "인천 남동체육관에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 09의 개최 날짜는?",
@@ -1259,7 +1324,8 @@
       "2024년 1월 20일"
     ],
     "answer": 2,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "2023년 11월 18일에 개최되었다."
   },
   {
     "question": "블랙컴뱃 09의 메인이벤트 체급은?",
@@ -1270,7 +1336,8 @@
       "밴텀급"
     ],
     "answer": 0,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "2대 플라이급 타이틀전(바이퍼 vs 해적왕)이 메인이었다."
   },
   {
     "question": "블랙컴뱃 09에서 2대 플라이급 타이틀전이 열렸다.",
@@ -1279,7 +1346,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "김성웅(바이퍼)이 이강남(해적왕)을 꺾고 2대 플라이급 챔피언이 되었다."
   },
   {
     "question": "블랙컴뱃 09 플라이급 타이틀전에 출전한 김성웅의 별명은?",
@@ -1290,7 +1358,8 @@
       "배드가이"
     ],
     "answer": 2,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "김성웅의 별명은 바이퍼이며 프로오디션 시즌1 참가자 출신이다."
   },
   {
     "question": "블랙컴뱃 09에서 바이퍼의 상대 이강남의 별명은?",
@@ -1301,7 +1370,8 @@
       "킹콩"
     ],
     "answer": 0,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "이강남의 별명은 해적왕이다."
   },
   {
     "question": "블랙컴뱃 09는 2023년의 마지막 넘버링 대회였다.",
@@ -1310,7 +1380,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "블랙컴뱃 09는 2023년 11월에 열린 그 해 마지막 넘버링이었다."
   },
   {
     "question": "블랙컴뱃 09가 열린 도시는?",
@@ -1321,7 +1392,8 @@
       "고양"
     ],
     "answer": 0,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "정답은 인천이다."
   },
   {
     "question": "2023년에 개최된 넘버링 대회의 총 수는?",
@@ -1332,7 +1404,8 @@
       "4개"
     ],
     "answer": 1,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "정답은 5개이다."
   },
   {
     "question": "유수영은 ONE Championship에서 UFC로 이적했다.",
@@ -1341,7 +1414,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "유수영은 Road to UFC 우승으로 UFC와 계약했다."
   },
   {
     "question": "블랙컴뱃 10이 개최된 장소는?",
@@ -1352,7 +1426,8 @@
       "인천 남동체육관"
     ],
     "answer": 0,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "서울 고려대학교 화정체육관에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 10은 팬들 사이에서 '모유대전'으로도 불린다. 이는 어떤 선수들에서 따온 것인가?",
@@ -1363,7 +1438,8 @@
       "매드카우와 유짓수"
     ],
     "answer": 1,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "모아이(김민우)와 유짓수(유수영)의 앞글자를 따 '모유대전'이라 불렸다."
   },
   {
     "question": "블랙컴뱃 10에서 김민우의 별명은?",
@@ -1374,7 +1450,8 @@
       "바이퍼"
     ],
     "answer": 1,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "김민우의 별명은 코리안 모아이이며 페더급에서 활동한다."
   },
   {
     "question": "블랙컴뱃 10은 몇 년 몇 월에 개최되었는가?",
@@ -1385,7 +1462,8 @@
       "2023년 11월"
     ],
     "answer": 2,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "2024년 1월에 개최되었다."
   },
   {
     "question": "블랙컴뱃 10에서 플라이급 타이틀이 박탈된 이유는?",
@@ -1396,7 +1474,8 @@
       "부상"
     ],
     "answer": 0,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "김성웅(바이퍼)의 계체 초과로 플라이급 타이틀이 박탈되었다."
   },
   {
     "question": "블랙컴뱃 선수 진출 체계의 첫 단계는 라이즈이다.",
@@ -1405,7 +1484,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "첫 단계는 비긴즈이다. 비긴즈→챔스→라이즈→넘버링 순서."
   },
   {
     "question": "블랙컴뱃 10에서 계체 초과로 타이틀이 박탈된 선수의 별명은?",
@@ -1416,7 +1496,8 @@
       "해적왕"
     ],
     "answer": 2,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "바이퍼(김성웅)가 계체 초과로 플라이급 타이틀을 잃었다."
   },
   {
     "question": "고려대 화정체육관은 어디에 위치하는가?",
@@ -1427,7 +1508,8 @@
       "고양"
     ],
     "answer": 1,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "고려대 화정체육관은 서울에 위치한다."
   },
   {
     "question": "블랙컴뱃은 설립 초기부터 빠르게 세계랭킹 선수를 확보했다.",
@@ -1436,7 +1518,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "약 3년 4개월(1228일) 만에 세계랭킹 50명을 확보하는 빠른 성장을 보였다."
   },
   {
     "question": "블랙컴뱃 10은 넘버링 두 자릿수에 진입한 첫 대회이다.",
@@ -1445,7 +1528,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "블랙컴뱃 10은 두 자릿수 넘버링에 처음 진입한 대회이다."
   },
   {
     "question": "블랙컴뱃 11에서는 어느 나라 단체와 대항전이 열렸는가?",
@@ -1456,7 +1540,8 @@
       "중국"
     ],
     "answer": 3,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "중국 단체 무림풍과의 한중전이 열렸다."
   },
   {
     "question": "블랙컴뱃 11의 한중전 상대 단체는 '무림풍'이다.",
@@ -1465,7 +1550,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "블랙컴뱃 11에서 중국 단체 무림풍과 한중 대항전을 펼쳤다."
   },
   {
     "question": "블랙컴뱃 11은 한일전에 이은 한중전이 열린 대회이다.",
@@ -1474,7 +1560,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "05, 08의 한일전(Deep)에 이어 11에서 한중전(무림풍)이 열렸다."
   },
   {
     "question": "블랙컴뱃 11은 몇 년에 개최되었는가?",
@@ -1485,7 +1572,8 @@
       "2025년"
     ],
     "answer": 0,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "정답은 2024년이다."
   },
   {
     "question": "블랙컴뱃 11부터 도핑테스트가 시작되었다.",
@@ -1494,7 +1582,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "블랙컴뱃 11부터 불시 도핑검사가 도입되었다."
   },
   {
     "question": "블랙컴뱃 16의 메인이벤트 체급은 라이트급이다.",
@@ -1503,7 +1592,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "블랙컴뱃 16 메인이벤트는 페더급(울프킹 vs 아레스)이었다."
   },
   {
     "question": "블랙컴뱃의 첫 한중전은 어느 넘버링 대회에서 열렸는가?",
@@ -1514,7 +1604,8 @@
       "12"
     ],
     "answer": 2,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "블랙컴뱃 11에서 중국 무림풍과의 첫 한중전이 열렸다."
   },
   {
     "question": "블랙컴뱃 11까지 대항전 상대 국가에 포함되지 않는 것은?",
@@ -1525,7 +1616,8 @@
       "한국"
     ],
     "answer": 1,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "정답은 미국이다."
   },
   {
     "question": "블랙컴뱃 11은 2024년에 개최된 두 번째 넘버링 대회이다.",
@@ -1534,16 +1626,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 11"
-  },
-  {
-    "question": "블랙컴뱃 11은 넘버링 10 이후에 열렸다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "블랙컴뱃 11은 10 이후 2024년에 열린 두 번째 넘버링이다."
   },
   {
     "question": "블랙컴뱃 12에서 '왕들의 귀환'이 의미하는 것은?",
@@ -1554,7 +1638,8 @@
       "해외 원정 복귀"
     ],
     "answer": 0,
-    "category": "넘버링 12: 왕들의 귀환"
+    "category": "넘버링 12: 왕들의 귀환",
+    "explanation": "타 단체 챔피언 출신 선수들이 대거 출전한 것을 의미한다."
   },
   {
     "question": "블랙컴뱃 12는 몇 년에 개최되었는가?",
@@ -1565,7 +1650,8 @@
       "2023년"
     ],
     "answer": 0,
-    "category": "넘버링 12: 왕들의 귀환"
+    "category": "넘버링 12: 왕들의 귀환",
+    "explanation": "정답은 2024년이다."
   },
   {
     "question": "무승부 시 연장전은 3분 2라운드이다.",
@@ -1574,16 +1660,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
-  },
-  {
-    "question": "블랙컴뱃 12는 넘버링 시리즈의 열두 번째 대회이다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 12: 왕들의 귀환"
+    "category": "체급/규칙",
+    "explanation": "연장전은 5분 1라운드이다."
   },
   {
     "question": "블랙컴뱃 12 이후 개최된 다음 넘버링은?",
@@ -1594,16 +1672,8 @@
       "14"
     ],
     "answer": 1,
-    "category": "넘버링 12: 왕들의 귀환"
-  },
-  {
-    "question": "블랙컴뱃 12는 2024년에 열렸다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 12: 왕들의 귀환"
+    "category": "넘버링 12: 왕들의 귀환",
+    "explanation": "정답은 13이다."
   },
   {
     "question": "블랙컴뱃 12에서는 타이틀전이 열렸다.",
@@ -1612,18 +1682,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 12: 왕들의 귀환"
-  },
-  {
-    "question": "블랙컴뱃 12까지 2024년에 개최된 넘버링 대회 수는?",
-    "options": [
-      "4개",
-      "2개",
-      "3개",
-      "1개"
-    ],
-    "answer": 2,
-    "category": "넘버링 12: 왕들의 귀환"
+    "category": "넘버링 12: 왕들의 귀환",
+    "explanation": "블랙컴뱃 12에서도 타이틀전이 열렸다."
   },
   {
     "question": "블랙컴뱃 12는 한국에서 개최되었다.",
@@ -1632,16 +1692,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 12: 왕들의 귀환"
-  },
-  {
-    "question": "블랙컴뱃 12는 1부 시리즈에 해당한다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 12: 왕들의 귀환"
+    "category": "넘버링 12: 왕들의 귀환",
+    "explanation": "블랙컴뱃 12는 한국에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 13의 개최 장소는?",
@@ -1652,7 +1704,8 @@
       "고려대 화정체육관"
     ],
     "answer": 3,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "서울 고려대 화정체육관에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 13의 부제는?",
@@ -1663,7 +1716,8 @@
       "왕들의 귀환"
     ],
     "answer": 1,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "블랙컴뱃 13의 부제는 '정상결전'이다."
   },
   {
     "question": "블랙컴뱃 13의 개최 날짜는?",
@@ -1674,7 +1728,8 @@
       "2024년 12월 28일"
     ],
     "answer": 3,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "2024년 12월 28일 연말에 개최되었다."
   },
   {
     "question": "블랙컴뱃 13에서 몇 개의 타이틀전이 예정되었는가?",
@@ -1685,7 +1740,8 @@
       "2개"
     ],
     "answer": 2,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "미들급, 라이트급, 밴텀급 등 4개의 타이틀전이 열렸다."
   },
   {
     "question": "블랙컴뱃 13의 메인이벤트에 출전한 김민우(모아이)의 체급은?",
@@ -1696,7 +1752,8 @@
       "밴텀급"
     ],
     "answer": 0,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "김민우(모아이)는 페더급에서 활동하며 기노시타 타케아키와 대결했다."
   },
   {
     "question": "블랙컴뱃 13 밴텀급 타이틀전에 출전한 김재웅의 별명은?",
@@ -1707,7 +1764,8 @@
       "시라소니"
     ],
     "answer": 2,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "김재웅의 별명은 투신이며 밴텀급 챔피언이다."
   },
   {
     "question": "블랙컴뱃 13 미들급 타이틀전의 도전자는?",
@@ -1718,7 +1776,8 @@
       "최원준"
     ],
     "answer": 3,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "최원준이 미들급 챔피언 오일학(킹콩)에게 도전했다."
   },
   {
     "question": "블랙컴뱃 13은 2024년 연말 이벤트로 진행되었다.",
@@ -1727,7 +1786,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "2024년 12월 28일 연말 대축제로 진행되었다."
   },
   {
     "question": "블랙컴뱃 13에서 모아이의 상대는?",
@@ -1738,7 +1798,8 @@
       "기노시타 타케아키"
     ],
     "answer": 3,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "가라데 출신 기노시타 타케아키와 페더급 경기를 치렀다."
   },
   {
     "question": "블랙컴뱃 02는 서울에서 개최되었다.",
@@ -1747,7 +1808,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "블랙컴뱃 02는 인천 파라다이스 시티에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 14는 1부의 마지막 대회이다.",
@@ -1756,7 +1818,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "블랙컴뱃 14(엔드게임)는 1부의 마지막 넘버링 대회이다."
   },
   {
     "question": "블랙컴뱃 14는 몇 년에 개최되었는가?",
@@ -1767,7 +1830,8 @@
       "2025년"
     ],
     "answer": 3,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "정답은 2025년이다."
   },
   {
     "question": "블랙컴뱃 14 이후 시작된 2부의 첫 대회는?",
@@ -1778,7 +1842,8 @@
       "블랙컵"
     ],
     "answer": 0,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "정답은 블랙컴뱃 15이다."
   },
   {
     "question": "블랙컴뱃 11에서 일본 단체와 대항전이 열렸다.",
@@ -1787,7 +1852,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "블랙컴뱃 11은 중국 단체 무림풍과의 한중전이었다."
   },
   {
     "question": "프로오디션 시즌2의 방영 기간은 2023년이다.",
@@ -1796,7 +1862,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "시즌2는 2022년 7~9월에 방영되었다."
   },
   {
     "question": "블랙컴뱃 10에서 플라이급 타이틀이 박탈된 이유는 도핑이다.",
@@ -1805,7 +1872,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "타이틀 박탈 사유는 계체 초과이다."
   },
   {
     "question": "블랙컴뱃 14가 열린 곳은 텐엑스타워이다.",
@@ -1814,7 +1882,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "블랙컴뱃 14는 경기도 성남시 금토동 텐엑스타워에서 열렸다."
   },
   {
     "question": "블랙컴뱃 14에서 '엔드게임'은 단체 해체를 의미한다.",
@@ -1823,7 +1892,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "엔드게임은 1부 종료를 뜻하며, 단체 해체가 아니라 2부 시작을 예고한 것이다."
   },
   {
     "question": "블랙컴뱃 14는 성남시에서 개최되었다.",
@@ -1832,16 +1902,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 14: END GAME (1부 종료)"
-  },
-  {
-    "question": "블랙컴뱃 14와 15는 같은 해에 열렸다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "블랙컴뱃 14는 경기도 성남시 수정구에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 15가 열린 장소는?",
@@ -1852,7 +1914,8 @@
       "고려대 화정체육관"
     ],
     "answer": 2,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "인천 인스파이어 엔터테인먼트 리조트 아레나에서 열렸다."
   },
   {
     "question": "블랙컴뱃 15는 2부의 시작이다.",
@@ -1861,7 +1924,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "14(엔드게임)로 1부가 끝나고 15(파라벨룸)부터 2부가 시작되었다."
   },
   {
     "question": "블랙컴뱃 15는 몇 년에 개최되었는가?",
@@ -1872,7 +1936,8 @@
       "2025년"
     ],
     "answer": 3,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "정답은 2025년이다."
   },
   {
     "question": "블랙컴뱃 헤비급의 체중 상한은 100kg이다.",
@@ -1881,7 +1946,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "헤비급 상한은 120kg이다."
   },
   {
     "question": "인스파이어 아레나는 어디에 위치하는가?",
@@ -1892,7 +1958,8 @@
       "경기 성남"
     ],
     "answer": 2,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "인스파이어 아레나는 인천 영종도 인스파이어 엔터테인먼트 리조트 내에 있다."
   },
   {
     "question": "블랙컴뱃 05의 대항전 상대 단체는 Rizin이다.",
@@ -1901,7 +1968,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "대항전 상대는 Deep이다."
   },
   {
     "question": "블랙컴뱃 15는 2025년에 개최되었다.",
@@ -1910,7 +1978,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "블랙컴뱃 15(파라벨룸)는 2025년에 인스파이어 아레나에서 개최되었다."
   },
   {
     "question": "블랙컴뱃의 유튜브 채널명은 블랙컴뱃TV이다.",
@@ -1919,7 +1988,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "유튜브 채널명은 무채색필름이다."
   },
   {
     "question": "블랙컴뱃 15는 인스파이어 엔터테인먼트 리조트에서 열렸다.",
@@ -1928,7 +1998,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "인천 영종도의 인스파이어 아레나에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 15는 2부 시리즈의 첫 번째 넘버링 대회이다.",
@@ -1937,7 +2008,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "블랙컴뱃 15는 1부 종료(14) 이후 2부의 첫 넘버링 대회이다."
   },
   {
     "question": "블랙컴뱃 16의 메인이벤트에 출전한 '울프킹'의 본명은?",
@@ -1948,7 +2020,8 @@
       "김태균"
     ],
     "answer": 2,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "울프킹의 본명은 아딜렛 누르마토프(Adilet Nurmatov)로 카자흐스탄 선수이다."
   },
   {
     "question": "블랙컴뱃 16에서 울프킹의 상대 '아레스'는 누구인가?",
@@ -1959,7 +2032,8 @@
       "김태균"
     ],
     "answer": 3,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "아레스는 김태균의 별명으로 페더급에서 활동한다."
   },
   {
     "question": "블랙컴뱃 16 메인이벤트의 체급은?",
@@ -1970,7 +2044,8 @@
       "밴텀급"
     ],
     "answer": 2,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "페더급 경기(울프킹 vs 아레스)가 메인이벤트였다."
   },
   {
     "question": "블랙컴뱃 05는 인천에서 개최되었다.",
@@ -1979,16 +2054,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 05: INCEPTION"
-  },
-  {
-    "question": "블랙컴뱃 16은 넘버링 15 이후에 열렸다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "넘버링 16"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "블랙컴뱃 05는 수원 컨벤션 센터에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 16은 열여섯 번째 넘버링 대회이다.",
@@ -1997,7 +2064,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "블랙컴뱃 16은 넘버링 시리즈의 열여섯 번째 대회이다."
   },
   {
     "question": "블랙컴뱃 04에서 유수영의 상대는 김재웅이었다.",
@@ -2006,7 +2074,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "블랙컴뱃 04에서 유수영의 상대는 이진세(빡세)였다."
   },
   {
     "question": "아딜렛 누르마토프의 별명은 울프킹이다.",
@@ -2015,7 +2084,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "울프킹은 카자흐스탄 출신으로 페더급 랭킹 상위 선수이다."
   },
   {
     "question": "아레스 김태균은 블랙컴뱃 페더급 선수이다.",
@@ -2024,18 +2094,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "넘버링 16"
-  },
-  {
-    "question": "블랙컴뱃 16까지 총 넘버링 대회 수는?",
-    "options": [
-      "14개",
-      "16개",
-      "15개",
-      "17개"
-    ],
-    "answer": 1,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "김태균(아레스)은 페더급에서 활동하는 한국 선수이다."
   },
   {
     "question": "프로오디션 시즌1에서 매일 밤 12시에 진행된 경기는?",
@@ -2046,7 +2106,8 @@
       "데스 매치"
     ],
     "answer": 3,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "각 팀의 4,5위 선수가 데스 매치를 하고 패자는 즉시 퇴소되었다."
   },
   {
     "question": "프로오디션 시즌1의 최종 우승자는?",
@@ -2057,7 +2118,8 @@
       "곰주먹"
     ],
     "answer": 3,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "곰주먹(김정균)이 최종 우승하여 블랙컴뱃 02 출전권을 얻었다."
   },
   {
     "question": "프로오디션 시즌1의 참가자 수는?",
@@ -2068,7 +2130,8 @@
       "16명"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "프로·세미프로·아마추어·일반인 총 10명이 참가했다."
   },
   {
     "question": "프로오디션 시즌1에서 팀장을 맡은 두 사람은?",
@@ -2079,7 +2142,8 @@
       "검정과 곰주먹"
     ],
     "answer": 2,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "검정(박평화)과 정도한이 각각 팀장을 맡았다."
   },
   {
     "question": "프로오디션 시즌1의 촬영 기간은?",
@@ -2090,7 +2154,8 @@
       "4박 5일"
     ],
     "answer": 2,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "2022년 3월 14~16일, 2박 3일간 촬영되었다."
   },
   {
     "question": "프로오디션 시즌1의 평가 기준에서 전투력의 배점은?",
@@ -2101,7 +2166,8 @@
       "60점"
     ],
     "answer": 3,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "전투력 60점, 개성 30점, 마이크웍 10점으로 구성된다."
   },
   {
     "question": "프로오디션 시즌1에서 심판을 맡은 사람은?",
@@ -2112,7 +2178,8 @@
       "유우성"
     ],
     "answer": 3,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "유우성이 심판을 맡았고, 검정과 정도한은 팀장이었다."
   },
   {
     "question": "프로오디션 시즌1 참가자 중 Zeus FC 밴텀급 챔피언 출신은?",
@@ -2123,7 +2190,8 @@
       "유수영"
     ],
     "answer": 3,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "유수영(유짓수)은 Zeus FC 밴텀급 챔피언 출신으로 시즌1에 참가했다."
   },
   {
     "question": "프로오디션 시즌1에서 일반인 참가자였던 사람의 별명은?",
@@ -2134,7 +2202,8 @@
       "SCP-096"
     ],
     "answer": 2,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "김동환(아수라)이 유일한 일반인 참가자였다."
   },
   {
     "question": "프로오디션 시즌1 우승 후 블랙컴뱃 02에 출전한 참가자 수는?",
@@ -2145,7 +2214,8 @@
       "5명"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "곰주먹, 유짓수를 포함해 7명이 블랙컴뱃 02에 출전했다."
   },
   {
     "question": "프로오디션 시즌2도 시즌1과 동일하게 2박 3일 일정으로 진행되었다.",
@@ -2154,16 +2224,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌2 (폐교도소)"
-  },
-  {
-    "question": "프로오디션 시즌2는 시즌1 이후 같은 해에 방영되었다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "시즌1과 2 모두 2박 3일 일정이었다."
   },
   {
     "question": "프로오디션 시즌2의 방영 기간은?",
@@ -2174,7 +2236,8 @@
       "2022년 3월~5월"
     ],
     "answer": 2,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "2022년 7월 21일~9월 8일 유튜브를 통해 방영되었다."
   },
   {
     "question": "프로오디션 시즌2의 장소 테마가 교도소인 이유는?",
@@ -2185,7 +2248,8 @@
       "범죄자 출연"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "선택에 대한 책임을 진다는 의미를 담아 폐교도소에서 진행했다."
   },
   {
     "question": "정도한은 유도 챔피언 출신이다.",
@@ -2194,7 +2258,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "정도한은 무에타이 챔피언 출신이다."
   },
   {
     "question": "프로오디션 시즌2는 시즌1보다 모집 공고를 더 일찍 올렸다.",
@@ -2203,7 +2268,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "시즌1은 3일전, 시즌2는 5일전 공고. 시즌2가 더 늦게(오래) 모집한 셈이다."
   },
   {
     "question": "프로오디션 시즌1은 오디션 3일 전, 시즌2는 며칠 전에 모집 공고를 올렸는가?",
@@ -2214,7 +2280,8 @@
       "3일 전"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "시즌2는 5일 전에 모집 공고를 올렸다. 준비된 자만의 기회라는 철학."
   },
   {
     "question": "프로오디션의 평가 기준 중 마이크웍의 배점은?",
@@ -2225,7 +2292,8 @@
       "5점"
     ],
     "answer": 2,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "마이크웍은 10점으로 미니 기자회견을 통해 평가된다."
   },
   {
     "question": "프로오디션의 평가 기준 중 개성의 배점은?",
@@ -2236,7 +2304,8 @@
       "40점"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "개성은 30점이며, 전투력 60점, 마이크웍 10점과 합산된다."
   },
   {
     "question": "프로오디션 우승자에게는 넘버링 메인카드 출전권이 부여된다.",
@@ -2245,7 +2314,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌2 (폐교도소)"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "프로오디션 우승자는 넘버링 대회 메인카드 출전 기회를 얻는다."
   },
   {
     "question": "블랙컴뱃 10은 인천 남동체육관에서 개최되었다.",
@@ -2254,7 +2324,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "블랙컴뱃 10은 고려대 화정체육관에서 개최되었다."
   },
   {
     "question": "프로오디션 시즌3은 시즌1, 2와 다르게 촬영 일정이 짧았다.",
@@ -2263,7 +2334,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌3 (폐공장)"
+    "category": "프로오디션 시즌3 (폐공장)",
+    "explanation": "시즌1,2는 2박3일이었지만 시즌3은 하루 만에 진행되었다."
   },
   {
     "question": "프로오디션 시즌3은 몇 년에 방영되었는가?",
@@ -2274,7 +2346,8 @@
       "2025년"
     ],
     "answer": 2,
-    "category": "프로오디션 시즌3 (폐공장)"
+    "category": "프로오디션 시즌3 (폐공장)",
+    "explanation": "정답은 2023년이다."
   },
   {
     "question": "블랙컴뱃 01은 2021년에 개최되었다.",
@@ -2283,7 +2356,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 2022년 2월 24일에 개최되었다."
   },
   {
     "question": "계체 허용 오차는 1kg이다.",
@@ -2292,7 +2366,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "허용 오차는 500g이다 (타이틀전 제외)."
   },
   {
     "question": "프로오디션 시즌3의 모집 공고는 오디션 며칠 전에 올렸는가?",
@@ -2303,7 +2378,8 @@
       "7일 전"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌3 (폐공장)"
+    "category": "프로오디션 시즌3 (폐공장)",
+    "explanation": "시즌3은 6일 전에 공고했다(시즌1: 3일전, 시즌2: 5일전)."
   },
   {
     "question": "프로오디션 시즌3까지 사용된 장소 테마가 아닌 것은?",
@@ -2314,7 +2390,8 @@
       "학교"
     ],
     "answer": 3,
-    "category": "프로오디션 시즌3 (폐공장)"
+    "category": "프로오디션 시즌3 (폐공장)",
+    "explanation": "정답은 학교이다."
   },
   {
     "question": "블랙컴뱃 14는 2024년에 개최되었다.",
@@ -2323,7 +2400,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 14: END GAME (1부 종료)"
+    "category": "넘버링 14: END GAME (1부 종료)",
+    "explanation": "블랙컴뱃 14는 2025년에 개최되었다."
   },
   {
     "question": "블랙컴뱃 09에서 바이퍼의 상대는 모아이였다.",
@@ -2332,16 +2410,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 09"
-  },
-  {
-    "question": "프로오디션 시즌3은 세 번째 시즌이다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "프로오디션 시즌3 (폐공장)"
+    "category": "넘버링 09",
+    "explanation": "바이퍼의 상대는 이강남(해적왕)이었다."
   },
   {
     "question": "블랙컴뱃 15는 서울에서 개최되었다.",
@@ -2350,7 +2420,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 15: PARABELLUM (2부 시작)"
+    "category": "넘버링 15: PARABELLUM (2부 시작)",
+    "explanation": "블랙컴뱃 15는 인천 인스파이어 아레나에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 13에서 타이틀전은 2개가 열렸다.",
@@ -2359,7 +2430,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "블랙컴뱃 13에서는 4개의 타이틀전이 열렸다."
   },
   {
     "question": "블랙컴뱃 02에 출전한 프로오디션 출신은 10명이다.",
@@ -2368,7 +2440,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "프로오디션 시즌1 출신 7명이 블랙컴뱃 02에 출전했다."
   },
   {
     "question": "블랙컴뱃의 시상식 이름은 블랙 어워드이다.",
@@ -2377,7 +2450,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "시상식 이름은 글로리아 어워드이다."
   },
   {
     "question": "프로오디션에서 참가자들은 팀으로 나뉘어 경쟁한다.",
@@ -2386,7 +2460,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌4"
+    "category": "프로오디션 시즌4",
+    "explanation": "프로오디션에서는 검정팀과 정도한팀 등 팀으로 나뉘어 경쟁한다."
   },
   {
     "question": "블랙컴뱃은 2020년에 종합격투기 단체로 출범했다.",
@@ -2395,7 +2470,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "역사/조직"
+    "category": "역사/조직",
+    "explanation": "블랙컴뱃은 2022년 6월 18일에 정식 출범했다."
   },
   {
     "question": "프로오디션 시즌1의 참가자 수는 12명이다.",
@@ -2404,7 +2480,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "참가자 수는 10명이다."
   },
   {
     "question": "블랙컴뱃 경기의 기본 구성은 3분 5라운드이다.",
@@ -2413,16 +2490,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
-  },
-  {
-    "question": "프로오디션 시즌4는 프로오디션 시리즈의 중반부에 해당한다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "프로오디션 시즌4"
+    "category": "체급/규칙",
+    "explanation": "기본 구성은 5분 3라운드이다."
   },
   {
     "question": "프로오디션의 평가 기준 중 마이크웍의 배점은 20점이다.",
@@ -2431,16 +2500,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌2 (폐교도소)"
-  },
-  {
-    "question": "프로오디션 시즌5는 다섯 번째 시즌이다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "프로오디션 시즌5"
+    "category": "프로오디션 시즌2 (폐교도소)",
+    "explanation": "마이크웍 배점은 10점이다 (전투력 60, 개성 30, 마이크웍 10)."
   },
   {
     "question": "블랙컴뱃 04의 메인이벤트 체급은 라이트급이다.",
@@ -2449,7 +2510,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 04: THE ERA OF NEW KINGS"
+    "category": "넘버링 04: THE ERA OF NEW KINGS",
+    "explanation": "블랙컴뱃 04 메인이벤트는 페더급 타이틀전(유수영 vs 이진세)이었다."
   },
   {
     "question": "블랙컴뱃 10에서 모아이의 별명을 가진 선수는 유수영이다.",
@@ -2458,7 +2520,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "모아이는 김민우의 별명이다."
   },
   {
     "question": "블랙컴뱃 09는 서울에서 개최되었다.",
@@ -2467,7 +2530,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "블랙컴뱃 09는 인천 남동체육관에서 개최되었다."
   },
   {
     "question": "프로오디션에서 전투력은 총점의 과반을 차지한다.",
@@ -2476,7 +2540,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌5"
+    "category": "프로오디션 시즌5",
+    "explanation": "전투력 60점은 총점 100점의 60%로 과반이다."
   },
   {
     "question": "블랙컴뱃 10은 2023년에 개최되었다.",
@@ -2485,7 +2550,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 10: 서울의 밤"
+    "category": "넘버링 10: 서울의 밤",
+    "explanation": "블랙컴뱃 10은 2024년 1월에 개최되었다."
   },
   {
     "question": "프로오디션에서 마이크웍은 미니 기자회견을 통해 평가된다.",
@@ -2494,7 +2560,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌5"
+    "category": "프로오디션 시즌5",
+    "explanation": "마이크웍은 선수들 간 미니 기자회견을 통해 10점 만점으로 평가된다."
   },
   {
     "question": "프로오디션 시즌3은 2022년에 방영되었다.",
@@ -2503,7 +2570,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌3 (폐공장)"
+    "category": "프로오디션 시즌3 (폐공장)",
+    "explanation": "시즌3은 2023년 1월부터 방영되었다."
   },
   {
     "question": "블랙컴뱃이 채택한 채점 방식은 5-point system이다.",
@@ -2512,7 +2580,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "10-point must scoring system을 채택하고 있다."
   },
   {
     "question": "블랙컴뱃에서 도핑테스트를 시작한 것은 블랙컴뱃 05부터이다.",
@@ -2521,7 +2590,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "도핑테스트는 블랙컴뱃 11부터 시작되었다."
   },
   {
     "question": "블랙컴뱃 01에서 검정의 상대는 정도한이었다.",
@@ -2530,7 +2600,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01에서 검정의 상대는 신종훈이었다. 정도한은 02."
   },
   {
     "question": "블랙컴뱃 02의 메인이벤트에서 검정의 상대는 신종훈이었다.",
@@ -2539,7 +2610,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 02: THE DARK KNIGHT BEGINS"
+    "category": "넘버링 02: THE DARK KNIGHT BEGINS",
+    "explanation": "블랙컴뱃 02에서 검정의 상대는 정도한이었다. 신종훈은 01."
   },
   {
     "question": "프로오디션 시즌1에서 심판을 맡은 사람은 정도한이다.",
@@ -2548,7 +2620,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "심판은 유우성이 맡았다. 정도한은 팀장."
   },
   {
     "question": "블랙컴뱃 07은 2024년에 개최되었다.",
@@ -2557,7 +2630,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 07"
+    "category": "넘버링 07",
+    "explanation": "블랙컴뱃 07은 2023년 7월에 개최되었다."
   },
   {
     "question": "프로오디션 시즌1의 최종 우승자는 유짓수이다.",
@@ -2566,7 +2640,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌1 (폐교회)"
+    "category": "프로오디션 시즌1 (폐교회)",
+    "explanation": "최종 우승자는 곰주먹(김정균)이다."
   },
   {
     "question": "프로오디션 우승 시 넘버링 대회 메인카드에 출전할 수 있다.",
@@ -2575,7 +2650,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌6"
+    "category": "프로오디션 시즌6",
+    "explanation": "프로오디션 우승자에게는 넘버링 메인카드 출전 기회가 주어진다."
   },
   {
     "question": "프로오디션에서 준비된 자만이 기회를 잡을 수 있어야 한다는 철학이 있다.",
@@ -2584,7 +2660,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "프로오디션 시즌6"
+    "category": "프로오디션 시즌6",
+    "explanation": "모집 공고를 짧게 올리는 이유는 항상 준비된 자만 기회를 잡아야 한다는 철학 때문이다."
   },
   {
     "question": "블랙컴뱃 아톰급의 체중 상한은 52.2kg이다.",
@@ -2593,7 +2670,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "체급/규칙"
+    "category": "체급/규칙",
+    "explanation": "아톰급은 48kg 이하, 52.2kg은 스트로급 상한이다."
   },
   {
     "question": "블랙컴뱃 13의 부제는 왕들의 귀환이다.",
@@ -2602,7 +2680,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 13"
+    "category": "넘버링 13",
+    "explanation": "블랙컴뱃 13의 부제는 정상결전이다. 왕들의 귀환은 12."
   },
   {
     "question": "블랙컴뱃 01은 인천 파라다이스 시티에서 개최되었다.",
@@ -2611,7 +2690,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 01: WHO IS THE KING?"
+    "category": "넘버링 01: WHO IS THE KING?",
+    "explanation": "블랙컴뱃 01은 서울 강남구 몬스터짐 아레나에서 개최되었다."
   },
   {
     "question": "블랙컴뱃 챔피언스 리그에 참가하는 팀 수는?",
@@ -2622,7 +2702,8 @@
       "6개"
     ],
     "answer": 3,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "6개 팀이 참가하며 각 팀당 5체급 매치로 구성된다."
   },
   {
     "question": "챔피언스 리그는 각 팀당 몇 체급 매치로 구성되는가?",
@@ -2633,7 +2714,8 @@
       "6체급"
     ],
     "answer": 1,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "각 팀당 5체급(플라이·밴텀·페더·라이트·중량급) 매치이다."
   },
   {
     "question": "챔피언스 리그 대회는 얼마 간격으로 열리는가?",
@@ -2644,7 +2726,8 @@
       "한 달"
     ],
     "answer": 3,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "한 달 간격으로 대회가 진행된다."
   },
   {
     "question": "블랙컴뱃 03의 메인이벤트 체급은 라이트급이다.",
@@ -2653,7 +2736,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03 메인이벤트는 중량급(양해준 vs 최원준)이었다."
   },
   {
     "question": "챔피언스 리그 2022-23시즌은 블랙컴뱃의 첫 번째 리그전이었다.",
@@ -2662,7 +2746,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "챔피언스 리그 2022-23시즌은 블랙컴뱃 최초의 팀 리그전이었다."
   },
   {
     "question": "챔피언스 리그는 개인전이 아닌 팀전이다.",
@@ -2671,7 +2756,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "챔피언스 리그는 팀 대항전 형식이며 개인전이 아니다."
   },
   {
     "question": "챔피언스 리그는 블랙컴뱃의 어떤 슬로건 아래 진행되는가?",
@@ -2682,7 +2768,8 @@
       "LET THE LION ROAR"
     ],
     "answer": 3,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "정답은 LET THE LION ROAR이다."
   },
   {
     "question": "챔피언스 리그 2022-23시즌은 블랙컴뱃 03과 연계되었다.",
@@ -2691,7 +2778,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "블랙컴뱃 03부터 챔피언스 리그가 시작되었다."
   },
   {
     "question": "블랙컴뱃은 국내 격투기 단체 중 아시아 랭킹이 가장 높다.",
@@ -2700,7 +2788,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "블랙컴뱃은 국내 단체 최고인 아시아 12위권을 기록하고 있다."
   },
   {
     "question": "챔피언스 리그는 프로오디션과 별개의 대회이다.",
@@ -2709,16 +2798,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2022-23시즌"
-  },
-  {
-    "question": "챔피언스 리그 2023-24시즌은 두 번째 시즌이다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "챔피언스리그 2023-24시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "챔피언스 리그는 프로오디션과 별개로 진행되는 팀 리그전이다."
   },
   {
     "question": "블랙컴뱃 11은 2023년에 개최되었다.",
@@ -2727,7 +2808,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 11"
+    "category": "넘버링 11",
+    "explanation": "블랙컴뱃 11은 2024년에 개최되었다."
   },
   {
     "question": "울프킹의 본명은 김태균이다.",
@@ -2736,7 +2818,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 16"
+    "category": "넘버링 16",
+    "explanation": "울프킹의 본명은 아딜렛 누르마토프(Adilet Nurmatov)이다. 김태균은 아레스."
   },
   {
     "question": "블랙컴뱃 07은 수원 컨벤션 센터에서 개최되었다.",
@@ -2745,16 +2828,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 07"
-  },
-  {
-    "question": "챔피언스 리그 2023-24시즌은 2022-23시즌 이후에 진행되었다.",
-    "options": [
-      "O",
-      "X"
-    ],
-    "answer": 0,
-    "category": "챔피언스리그 2023-24시즌"
+    "category": "넘버링 07",
+    "explanation": "블랙컴뱃 07은 일산 킨텍스에서 개최되었다."
   },
   {
     "question": "블랙컴뱃은 세계 격투기 단체 랭킹 10위 안에 든다.",
@@ -2763,7 +2838,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "기록/성과"
+    "category": "기록/성과",
+    "explanation": "블랙컴뱃은 세계 약 30위권, 아시아 12위권이다."
   },
   {
     "question": "양해준은 UFC 챔피언 출신이다.",
@@ -2772,7 +2848,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "양해준은 Road FC 미들급 챔피언 출신이다."
   },
   {
     "question": "챔피언스 리그에서는 개인 타이틀전이 열린다.",
@@ -2781,7 +2858,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "챔피언스리그 2023-24시즌"
+    "category": "챔피언스리그 2023-24시즌",
+    "explanation": "챔피언스 리그는 팀전이므로 개인 타이틀전은 넘버링 대회에서 열린다."
   },
   {
     "question": "챔피언스 리그는 블랙컴뱃의 팀 기반 리그이다.",
@@ -2790,7 +2868,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2023-24시즌"
+    "category": "챔피언스리그 2023-24시즌",
+    "explanation": "챔피언스 리그는 6개 팀이 경쟁하는 팀 기반 리그이다."
   },
   {
     "question": "챔피언스 리그 2023-24시즌은 2024년에 종료되었다.",
@@ -2799,7 +2878,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2023-24시즌"
+    "category": "챔피언스리그 2023-24시즌",
+    "explanation": "챔피언스 리그 2023-24시즌은 2024년에 종료되었다."
   },
   {
     "question": "챔피언스 리그 2024-25시즌은 챔피언스 리그의 마지막 시즌이다.",
@@ -2808,7 +2888,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "2024-25시즌이 마지막이며, 이후 블랙컵으로 전환되었다."
   },
   {
     "question": "챔피언스 리그 2024-25시즌에 참가한 '지브라 칼슨 해적단'은 팀 이름이다.",
@@ -2817,7 +2898,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "지브라 칼슨 해적단은 챔피언스 리그 2024-25시즌 참가팀 중 하나이다."
   },
   {
     "question": "챔피언스 리그 2024-25시즌 이후 신설된 대회는?",
@@ -2828,7 +2910,8 @@
       "블랙리스트"
     ],
     "answer": 1,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "챔피언스 리그 종료 후 국가별 MMA 대항전 블랙컵이 신설되었다."
   },
   {
     "question": "챔피언스 리그 2024-25시즌에 참가하지 않은 팀은?",
@@ -2839,7 +2922,8 @@
       "BF 팀 솔리드"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "정답은 블랙컴뱃짐이다."
   },
   {
     "question": "챔피언스 리그 종료 후 블랙컵이 신설되었다.",
@@ -2848,7 +2932,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "챔피언스리그 3시즌 종료 후 국가별 대항전 블랙컵으로 전환되었다."
   },
   {
     "question": "'아리에블랙 MMA 스토리'는 챔피언스 리그 2024-25시즌 참가팀이다.",
@@ -2857,7 +2942,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "아리에블랙 MMA 스토리는 챔피언스 리그 2024-25시즌 6개 참가팀 중 하나이다."
   },
   {
     "question": "'다운튼 팀 크레이지'는 챔피언스 리그 2024-25시즌 참가팀이다.",
@@ -2866,7 +2952,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "다운튼 팀 크레이지는 챔피언스 리그 2024-25시즌 6개 참가팀 중 하나이다."
   },
   {
     "question": "챔피언스 리그는 총 몇 시즌 진행되었는가?",
@@ -2877,7 +2964,8 @@
       "5시즌"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "2022-23, 2023-24, 2024-25 총 3시즌 진행 후 종료되었다."
   },
   {
     "question": "챔피언스 리그 2024-25시즌에는 6개 팀이 참가하었다.",
@@ -2886,7 +2974,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "챔피언스 리그는 매 시즌 6개 팀이 참가한다."
   },
   {
     "question": "챔피언스 리그 종료 후 팀전은 국가별 대항전으로 전환되었다.",
@@ -2895,7 +2984,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "챔피언스리그 2024-25시즌 (최종 시즌)"
+    "category": "챔피언스리그 2024-25시즌 (최종 시즌)",
+    "explanation": "챔피언스 리그 종료 후 국가별 MMA 대항전인 블랙컵이 신설되었다."
   },
   {
     "question": "블랙컴뱃 05는 2022년에 개최되었다.",
@@ -2904,7 +2994,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "블랙컴뱃 05는 2023년 2월 4일에 개최되었다."
   },
   {
     "question": "블랙컵은 챔피언스 리그의 후속 대회이다.",
@@ -2913,7 +3004,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "챔피언스 리그 종료 후 국가별 대항전으로 전환된 대회이다."
   },
   {
     "question": "블랙컵은 어떤 형식의 대회인가?",
@@ -2924,7 +3016,8 @@
       "개인 토너먼트"
     ],
     "answer": 2,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "국가별 MMA 대항전이며 8강부터 토너먼트로 진행된다."
   },
   {
     "question": "블랙컵에서 대한민국(α)의 8강 상대는?",
@@ -2935,7 +3028,8 @@
       "일본"
     ],
     "answer": 0,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "블랙컵 8강에서 대한민국(α)은 미국과 대결한다."
   },
   {
     "question": "블랙컵에서 브라질의 8강 상대는?",
@@ -2946,7 +3040,8 @@
       "몽골"
     ],
     "answer": 1,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "블랙컵 8강에서 브라질은 일본과 대결한다."
   },
   {
     "question": "블랙컵에서 몽골의 8강 상대는?",
@@ -2957,7 +3052,8 @@
       "중국"
     ],
     "answer": 3,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "블랙컵 8강에서 몽골은 중국과 대결한다."
   },
   {
     "question": "블랙컵 8강은 몇 년에 진행되는가?",
@@ -2968,7 +3064,8 @@
       "2025년"
     ],
     "answer": 0,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "블랙컵 8강은 2026년에 진행된다."
   },
   {
     "question": "챔피언스 리그에 참가하는 팀 수는 8개이다.",
@@ -2977,7 +3074,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "챔피언스리그 2022-23시즌"
+    "category": "챔피언스리그 2022-23시즌",
+    "explanation": "챔피언스 리그에는 6개 팀이 참가한다."
   },
   {
     "question": "블랙컵은 챔피언스 리그와 동시에 진행된다.",
@@ -2986,7 +3084,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "블랙컵은 챔피언스 리그 종료 후 신설된 별도 대회이며 동시 진행이 아니다."
   },
   {
     "question": "블랙컵은 챔피언스 리그 이전에 만들어진 대회이다.",
@@ -2995,7 +3094,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙컵"
+    "category": "블랙컵",
+    "explanation": "블랙컵은 챔피언스 리그 종료 후 신설된 대회이다."
   },
   {
     "question": "블랙리스트는 어떤 목적의 컨텐츠인가?",
@@ -3006,7 +3106,8 @@
       "아마추어 대회"
     ],
     "answer": 1,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트는 선수가 직접 블랙컴뱃에 도전/지원하는 프로그램이다."
   },
   {
     "question": "블랙리스트는 선수들이 자발적으로 지원하는 컨텐츠이다.",
@@ -3015,7 +3116,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트는 선수가 직접 블랙컴뱃에 지원/도전하는 프로그램이다."
   },
   {
     "question": "블랙리스트는 블랙컴뱃에 도전하고 싶은 선수들이 지원하는 프로그램이다.",
@@ -3024,7 +3126,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트는 선수가 자발적으로 지원하는 시스템이다."
   },
   {
     "question": "블랙컴뱃 03은 2023년에 개최되었다.",
@@ -3033,7 +3136,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 03: LET THE LION ROAR"
+    "category": "넘버링 03: LET THE LION ROAR",
+    "explanation": "블랙컴뱃 03은 2022년 10월 22일에 개최되었다."
   },
   {
     "question": "블랙리스트는 블랙테이블과 동일한 프로그램이다.",
@@ -3042,7 +3146,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트(지원)와 블랙테이블(영입)은 다른 프로그램이다."
   },
   {
     "question": "블랙리스트는 해외 선수 영입을 위한 컨텐츠이다.",
@@ -3051,7 +3156,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "영입은 블랙테이블, 블랙리스트는 선수가 직접 지원하는 프로그램이다."
   },
   {
     "question": "블랙리스트는 프로오디션과 동일한 프로그램이다.",
@@ -3060,7 +3166,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트는 지원 시스템이고, 프로오디션은 서바이벌 프로그램으로 다르다."
   },
   {
     "question": "블랙리스트를 통해 블랙컴뱃에 합류할 수 있다.",
@@ -3069,7 +3176,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트에 지원하여 선발되면 블랙컴뱃 소속으로 활동할 수 있다."
   },
   {
     "question": "블랙리스트와 블랙테이블의 차이는 지원과 영입이다.",
@@ -3078,7 +3186,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트는 선수가 지원, 블랙테이블은 블랙컴뱃이 직접 영입하는 방식이다."
   },
   {
     "question": "블랙리스트는 블랙컴뱃의 지원 시스템이다.",
@@ -3087,7 +3196,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트를 통해 선수가 블랙컴뱃에 합류를 지원할 수 있다."
   },
   {
     "question": "블랙컴뱃 라이즈는 어떤 선수들을 위한 무대인가?",
@@ -3098,7 +3208,8 @@
       "신인 선수"
     ],
     "answer": 2,
-    "category": "블랙컴뱃 라이즈"
+    "category": "블랙컴뱃 라이즈",
+    "explanation": "넘버링에서 연패하거나 부진한 선수들에게 재기 기회를 주는 무대이다."
   },
   {
     "question": "라이즈에서 좋은 성적을 거두면 넘버링 대회에 복귀할 수 있다.",
@@ -3107,7 +3218,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙컴뱃 라이즈"
+    "category": "블랙컴뱃 라이즈",
+    "explanation": "라이즈에서 좋은 퍼포먼스를 보이면 넘버링 대회 복귀 기회를 얻는다."
   },
   {
     "question": "라이즈는 넘버링에서 연패한 선수에게 재기 기회를 준다.",
@@ -3116,7 +3228,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙컴뱃 라이즈"
+    "category": "블랙컴뱃 라이즈",
+    "explanation": "넘버링에서 결과가 좋지 않은 선수들이 라이즈에서 다시 기회를 잡을 수 있다."
   },
   {
     "question": "라이즈는 선수 진출 체계에서 어디에 위치하는가?",
@@ -3127,7 +3240,8 @@
       "챔스와 넘버링 사이"
     ],
     "answer": 3,
-    "category": "블랙컴뱃 라이즈"
+    "category": "블랙컴뱃 라이즈",
+    "explanation": "비긴즈→챔스→라이즈→넘버링 순서에서 세 번째 단계이다."
   },
   {
     "question": "블랙컴뱃 05에서 중국 단체와 대항전이 열렸다.",
@@ -3136,7 +3250,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 05: INCEPTION"
+    "category": "넘버링 05: INCEPTION",
+    "explanation": "블랙컴뱃 05에서는 일본 단체 Deep과 대항전이 열렸다."
   },
   {
     "question": "라이즈에서 좋은 퍼포먼스를 보여주지 못한 선수도 라이즈에 배정된다.",
@@ -3145,7 +3260,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙컴뱃 라이즈"
+    "category": "블랙컴뱃 라이즈",
+    "explanation": "넘버링에서 부진한 선수뿐 아니라 좋은 퍼포먼스를 못 보인 선수도 라이즈에 배정된다."
   },
   {
     "question": "블랙컴뱃 08에서 중국 단체와 대항전이 열렸다.",
@@ -3154,7 +3270,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 08"
+    "category": "넘버링 08",
+    "explanation": "블랙컴뱃 08에서는 일본 단체 Deep과 대항전이 열렸다."
   },
   {
     "question": "프로오디션 시즌3은 2박 3일 일정으로 진행되었다.",
@@ -3163,7 +3280,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "프로오디션 시즌3 (폐공장)"
+    "category": "프로오디션 시즌3 (폐공장)",
+    "explanation": "시즌3은 하루 만에 모든 일정이 진행되었다."
   },
   {
     "question": "라이즈 대회에서는 타이틀전이 열리지 않는다.",
@@ -3172,7 +3290,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙컴뱃 라이즈"
+    "category": "블랙컴뱃 라이즈",
+    "explanation": "라이즈는 재기를 위한 무대이므로 타이틀전은 넘버링에서만 열린다."
   },
   {
     "question": "라이즈는 블랙컴뱃 선수들의 재기를 위한 대회이다.",
@@ -3181,7 +3300,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙컴뱃 라이즈"
+    "category": "블랙컴뱃 라이즈",
+    "explanation": "넘버링에서 부진한 선수들이 재기할 수 있는 기회의 무대이다."
   },
   {
     "question": "비긴즈는 블랙컴뱃 선수 진출 체계의 첫 단계이다.",
@@ -3190,7 +3310,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈는 신입 선수가 블랙컴뱃에 데뷔하는 첫 무대이다."
   },
   {
     "question": "비긴즈는 신입 선수 데뷔 무대이다.",
@@ -3199,7 +3320,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈를 통해 신입 선수들이 블랙컴뱃에서 첫 경기를 치른다."
   },
   {
     "question": "비긴즈 다음 단계는?",
@@ -3210,7 +3332,8 @@
       "챔스"
     ],
     "answer": 3,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈 다음은 챔스(챔피언스리그 팀전)이다."
   },
   {
     "question": "비긴즈에서 좋은 성적을 거두면 챔피언스 리그에 참가할 수 있다.",
@@ -3219,7 +3342,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈에서 좋은 성적을 내면 상위 단계인 챔스에 진출할 수 있다."
   },
   {
     "question": "비긴즈는 아마추어 선수에게 프로 데뷔 기회를 제공한다.",
@@ -3228,7 +3352,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈는 아마추어를 포함한 신인 선수들에게 프로 데뷔 기회를 준다."
   },
   {
     "question": "비긴즈에서 바로 넘버링 대회에 출전할 수 있다.",
@@ -3237,7 +3362,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈에서 바로 넘버링으로 갈 수 없으며, 챔스→라이즈를 거쳐야 한다."
   },
   {
     "question": "비긴즈는 블랙컴뱃 진출 체계에서 가장 낮은 단계이다.",
@@ -3246,7 +3372,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈는 비긴즈→챔스→라이즈→넘버링 중 가장 낮은 첫 단계이다."
   },
   {
     "question": "비긴즈-챔스-라이즈-넘버링 체계에서 비긴즈의 위치는?",
@@ -3257,7 +3384,8 @@
       "4단계"
     ],
     "answer": 1,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈는 4단계 진출 체계의 첫 번째(1단계)이다."
   },
   {
     "question": "비긴즈는 블랙리스트와 동일한 프로그램이다.",
@@ -3266,7 +3394,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈(데뷔 무대)와 블랙리스트(지원 시스템)는 다른 프로그램이다."
   },
   {
     "question": "비긴즈를 통해 블랙컴뱃에 데뷔한 선수들이 있다.",
@@ -3275,7 +3404,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "비긴즈"
+    "category": "비긴즈",
+    "explanation": "비긴즈를 통해 많은 신인 선수들이 블랙컴뱃에 데뷔했다."
   },
   {
     "question": "글로리아 어워드는 블랙컴뱃의 시상식이다.",
@@ -3284,7 +3414,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "글로리아 어워드는 블랙컴뱃 선수들의 성과를 기리는 공식 시상식이다."
   },
   {
     "question": "블랙컴뱃 09의 메인이벤트 체급은 밴텀급이다.",
@@ -3293,7 +3424,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "넘버링 09"
+    "category": "넘버링 09",
+    "explanation": "블랙컴뱃 09 메인이벤트는 플라이급(바이퍼 vs 해적왕)이었다."
   },
   {
     "question": "글로리아 어워드는 블랙컴뱃 공식 사이트에 메뉴로 존재한다.",
@@ -3302,7 +3434,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "블랙컴뱃 공식 사이트에서 글로리아 어워드 관련 정보를 확인할 수 있다."
   },
   {
     "question": "글로리아 어워드는 넘버링 대회의 일부이다.",
@@ -3311,7 +3444,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "글로리아 어워드는 넘버링 대회와 별개인 독립 시상식이다."
   },
   {
     "question": "글로리아 어워드는 블랙컴뱃 선수들의 성과를 기리는 행사이다.",
@@ -3320,7 +3454,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "한 해 동안 뛰어난 활약을 보인 선수들에게 상을 수여한다."
   },
   {
     "question": "글로리아 어워드는 매 대회마다 열린다.",
@@ -3329,7 +3464,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "글로리아 어워드는 연말에 열리며 매 대회마다 열리지 않는다."
   },
   {
     "question": "글로리아 어워드는 블랙컴뱃의 연말 행사이다.",
@@ -3338,7 +3474,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "글로리아 어워드는 연말에 한 해를 정리하며 진행되는 시상식이다."
   },
   {
     "question": "글로리아 어워드는 블랙컴뱃이 운영하는 시상식이다.",
@@ -3347,7 +3484,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "블랙컴뱃이 주관하여 선수들의 성과를 기리는 공식 시상식이다."
   },
   {
     "question": "글로리아(Gloria)는 '영광'을 뜻하는 라틴어이다.",
@@ -3356,7 +3494,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "Gloria는 라틴어로 '영광'을 뜻하며, 선수들의 영광스러운 성과를 기린다."
   },
   {
     "question": "글로리아 어워드는 블랙컴뱃의 공식 이벤트이다.",
@@ -3365,7 +3504,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "글로리아 어워드"
+    "category": "글로리아 어워드",
+    "explanation": "글로리아 어워드는 블랙컴뱃의 공식 시상 이벤트이다."
   },
   {
     "question": "블랙테이블은 어떤 목적의 컨텐츠인가?",
@@ -3376,7 +3516,8 @@
       "아마추어 대회"
     ],
     "answer": 1,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블은 블랙컴뱃이 직접 해외 챔피언급 선수를 영입하는 프로그램이다."
   },
   {
     "question": "블랙테이블은 블랙컴뱃의 선수 영입 컨텐츠이다.",
@@ -3385,7 +3526,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블을 통해 블랙컴뱃이 해외 유망 선수를 직접 섭외한다."
   },
   {
     "question": "블랙테이블에서 영입 대상은 해외 챔피언급 선수이다.",
@@ -3394,7 +3536,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "해외에서 챔피언을 했거나 그에 준하는 실력의 선수를 영입한다."
   },
   {
     "question": "블랙테이블은 비긴즈-챔스-라이즈 체제를 건너뛸 수 있는 경로이다.",
@@ -3403,7 +3546,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블로 영입된 선수는 일반 진출 체계를 건너뛰고 넘버링에 출전할 수 있다."
   },
   {
     "question": "블랙테이블로 영입된 선수는 넘버링 이벤트로 직행할 수 있다.",
@@ -3412,7 +3556,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블 영입 선수는 비긴즈→챔스→라이즈를 거치지 않고 바로 넘버링에 출전 가능하다."
   },
   {
     "question": "블랙테이블은 선수가 지원하는 방식이다.",
@@ -3421,7 +3566,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블은 블랙컴뱃이 직접 영입하는 방식이며, 지원은 블랙리스트이다."
   },
   {
     "question": "블랙테이블은 블랙리스트와 동일한 프로그램이다.",
@@ -3430,7 +3576,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블(영입)과 블랙리스트(지원)는 방향이 반대인 별개 프로그램이다."
   },
   {
     "question": "블랙테이블은 블랙컴뱃 측에서 직접 선수를 섭외하는 방식이다.",
@@ -3439,7 +3586,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙리스트(지원)와 달리 블랙테이블은 블랙컴뱃이 능동적으로 영입한다."
   },
   {
     "question": "블랙테이블은 해외에서 챔피언을 했거나 그에 준하는 경력의 선수를 영입한다.",
@@ -3448,7 +3596,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블은 검증된 해외 챔피언급 선수를 대상으로 한다."
   },
   {
     "question": "블랙테이블은 블랙컴뱃의 대표적인 영입 시스템이다.",
@@ -3457,7 +3606,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "블랙테이블"
+    "category": "블랙테이블",
+    "explanation": "블랙테이블은 블랙리스트(지원)와 함께 블랙컴뱃의 양대 선수 확보 시스템이다."
   },
   {
     "question": "블랙리스트는 프로오디션처럼 서바이벌 형식으로 진행된다.",
@@ -3466,7 +3616,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "블랙리스트"
+    "category": "블랙리스트",
+    "explanation": "블랙리스트는 서바이벌이 아닌 지원/선발 방식이다."
   },
   {
     "question": "블랙컴뱃 플라이급 챔피언 코마키네 타카히로의 국적은?",
@@ -3477,7 +3628,8 @@
       "카자흐스탄"
     ],
     "answer": 1,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "코마키네 타카히로(탱크)는 일본 출신 플라이급 챔피언이다."
   },
   {
     "question": "블랙컴뱃 플라이급 선수 인디언킹(Gabriel Rodrigues)의 국적은?",
@@ -3488,7 +3640,8 @@
       "카자흐스탄"
     ],
     "answer": 2,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "인디언킹은 브라질 출신으로 플라이급 상위권 선수이다."
   },
   {
     "question": "우마왕이라는 별명을 가진 블랙컴뱃 플라이급 선수는?",
@@ -3499,7 +3652,8 @@
       "이준영"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "우성훈의 별명이 우마왕이며 플라이급에서 활동한다."
   },
   {
     "question": "이준영(배드가이)은 블랙컴뱃 초대 플라이급 챔피언이다.",
@@ -3508,7 +3662,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "이준영(배드가이)은 블랙컴뱃 06에서 바이퍼를 꺾고 초대 챔피언이 되었다."
   },
   {
     "question": "바이퍼 김성웅은 블랙컴뱃 2대 플라이급 챔피언이 되었다.",
@@ -3517,7 +3672,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "이준영의 타이틀 반납 후 바이퍼가 09에서 해적왕을 꺾고 2대 챔피언이 됐다."
   },
   {
     "question": "코마키네 타카히로는 블랙컴뱃 15에서 플라이급 타이틀을 획득했다.",
@@ -3526,7 +3682,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "코마키네(탱크)는 15에서 토마스 아시스를 만장일치 판정으로 꺾었다."
   },
   {
     "question": "블랙컴뱃 플라이급 선수 윤방관의 본명은?",
@@ -3537,7 +3694,8 @@
       "이준영"
     ],
     "answer": 1,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "윤호영의 별명이 윤방관이며 플라이급에서 활동한다."
   },
   {
     "question": "크로커다일(Elias da Cruz)은 블랙컴뱃 플라이급 선수이다.",
@@ -3546,7 +3704,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "Elias da Cruz(크로커다일)는 브라질 출신 플라이급 선수이다."
   },
   {
     "question": "인디언킹은 블랙컴뱃 플라이급 한국 선수이다.",
@@ -3555,7 +3714,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "인디언킹(Gabriel Rodrigues)은 브라질 선수이다."
   },
   {
     "question": "이준영(배드가이)은 교통사고로 플라이급 타이틀을 반납했다.",
@@ -3564,7 +3724,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "07 대회를 앞두고 교통사고를 당해 부득이하게 타이틀을 반납했다."
   },
   {
     "question": "블랙컴뱃 밴텀급 챔피언 김재웅의 별명은?",
@@ -3575,7 +3736,8 @@
       "언더독"
     ],
     "answer": 1,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "김재웅의 별명은 투신이며 밴텀급 챔피언이다."
   },
   {
     "question": "블랙컴뱃 밴텀급 선수 펜리르(Daniiar Toichubek)의 국적은?",
@@ -3586,7 +3748,8 @@
       "키르기스스탄"
     ],
     "answer": 2,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "펜리르는 카자흐스탄 출신으로 무패 전적의 밴텀급 선수이다."
   },
   {
     "question": "무사(타케나카 다이치)는 어느 나라 선수인가?",
@@ -3597,7 +3760,8 @@
       "카자흐스탄"
     ],
     "answer": 1,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "타케나카 다이치(무사)는 일본 출신 밴텀급 선수이다."
   },
   {
     "question": "빡세라는 별명을 가진 밴텀급 선수는?",
@@ -3608,7 +3772,8 @@
       "유수영"
     ],
     "answer": 1,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "이진세의 별명이 빡세이며 블랙컴뱃 04 페더급 타이틀전에 출전했다."
   },
   {
     "question": "블랙컴뱃 밴텀급 선수 언더독의 본명은?",
@@ -3619,7 +3784,8 @@
       "유수영"
     ],
     "answer": 1,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "박성준의 별명이 언더독이며 밴텀급에서 활동한다."
   },
   {
     "question": "유수영(유짓수)은 밴텀급 챔피언을 역임했다.",
@@ -3628,7 +3794,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "유수영은 밴텀급·페더급 챔피언을 역임한 후 UFC로 이적했다."
   },
   {
     "question": "김재웅은 블랙컴뱃 13에서 밴텀급 타이틀전을 치렀다.",
@@ -3637,7 +3804,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "블랙컴뱃 13에서 야마모토 세이고와 밴텀급 타이틀전을 치렀다."
   },
   {
     "question": "유수영은 Road to UFC 우승 후 블랙컴뱃 밴텀급 타이틀을 반납했다.",
@@ -3646,7 +3814,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "유수영은 Road to UFC 우승으로 UFC와 계약하며 밴텀급 타이틀을 반납했다."
   },
   {
     "question": "초대 밴텀급 챔피언은 김성빈(파이톤)이다.",
@@ -3655,7 +3824,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "김성빈(파이톤)이 블랙컴뱃 초대 밴텀급 챔피언이었다."
   },
   {
     "question": "펜리르는 블랙컴뱃 밴텀급 일본 선수이다.",
@@ -3664,7 +3834,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "펜리르(Daniiar Toichubek)는 카자흐스탄 선수이다."
   },
   {
     "question": "블랙컴뱃 페더급 챔피언 방성혁의 별명은?",
@@ -3675,7 +3846,8 @@
       "락스톤"
     ],
     "answer": 1,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "방성혁의 별명은 시라소니이며 페더급 무패 챔피언이다."
   },
   {
     "question": "울프킹(Adilet Nurmatov)의 국적은?",
@@ -3686,7 +3858,8 @@
       "몽골"
     ],
     "answer": 2,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "아딜렛 누르마토프(울프킹)는 카자흐스탄 출신 페더급 상위 선수이다."
   },
   {
     "question": "아레스라는 별명을 가진 페더급 선수는?",
@@ -3697,7 +3870,8 @@
       "Lucas Bento"
     ],
     "answer": 1,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "김태균의 별명이 아레스이며 페더급에서 활동한다."
   },
   {
     "question": "코리안 모아이라는 별명을 가진 선수는?",
@@ -3708,7 +3882,8 @@
       "이진세"
     ],
     "answer": 2,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "김민우의 별명이 코리안 모아이이며 페더급에서 활동한다."
   },
   {
     "question": "락스톤(Lucas Bento)은 어느 나라 선수인가?",
@@ -3719,7 +3894,8 @@
       "브라질"
     ],
     "answer": 3,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "Lucas Bento(락스톤)는 브라질 출신 페더급 선수이다."
   },
   {
     "question": "유수영(유짓수)은 블랙컴뱃 초대 페더급 챔피언이다.",
@@ -3728,7 +3904,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "유수영은 블랙컴뱃 04에서 이진세를 꺾고 초대 페더급 챔피언이 되었다."
   },
   {
     "question": "블랙컴뱃 16 메인이벤트에서 울프킹과 아레스가 대결했다.",
@@ -3737,7 +3914,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "블랙컴뱃 16 메인이벤트는 울프킹 vs 아레스 페더급 경기였다."
   },
   {
     "question": "김민우(모아이)는 블랙컴뱃 13 메인이벤트에 출전했다.",
@@ -3746,7 +3924,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "모아이는 블랙컴뱃 13에서 기노시타 타케아키와 페더급 메인을 치렀다."
   },
   {
     "question": "방성혁은 블랙컴뱃 페더급 일본 선수이다.",
@@ -3755,7 +3934,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "방성혁은 한국 선수이다."
   },
   {
     "question": "울프킹은 블랙컴뱃 페더급 한국 선수이다.",
@@ -3764,7 +3944,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "울프킹(Adilet Nurmatov)은 카자흐스탄 선수이다."
   },
   {
     "question": "블랙컴뱃 라이트급 챔피언 정한국의 별명은?",
@@ -3775,7 +3956,8 @@
       "영보스"
     ],
     "answer": 1,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "정한국의 별명은 캡틴 코리아이며 라이트급 챔피언이다."
   },
   {
     "question": "머큐리(Flavio Santos)의 국적은?",
@@ -3786,7 +3968,8 @@
       "카자흐스탄"
     ],
     "answer": 2,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "Flavio Santos(머큐리)는 브라질 출신 라이트급 상위 선수이다."
   },
   {
     "question": "직쏘라는 별명을 가진 라이트급 선수는?",
@@ -3797,7 +3980,8 @@
       "Flavio Santos"
     ],
     "answer": 1,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "문기범의 별명이 직쏘이며 라이트급에서 활동한다."
   },
   {
     "question": "영보스라는 별명을 가진 선수의 본명은?",
@@ -3808,7 +3992,8 @@
       "Nandin-Erdene"
     ],
     "answer": 2,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "박어진의 별명이 영보스이며 라이트급에서 활동한다."
   },
   {
     "question": "수부타이(Nandin-Erdene)는 어느 나라 선수인가?",
@@ -3819,7 +4004,8 @@
       "브라질"
     ],
     "answer": 2,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "Nandin-Erdene(수부타이)는 몽골 출신 라이트급 선수이다."
   },
   {
     "question": "유수영은 블랙컴뱃 초대 라이트급 챔피언이다.",
@@ -3828,7 +4014,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "유수영(유짓수)은 블랙컴뱃 02에서 초대 라이트급 챔피언이 되었다."
   },
   {
     "question": "정한국은 블랙컴뱃 라이트급 브라질 선수이다.",
@@ -3837,7 +4024,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "정한국은 한국 선수이다."
   },
   {
     "question": "블랙컴뱃 13에서 라이트급 타이틀전이 열렸다.",
@@ -3846,7 +4034,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "문기범(직쏘)과 오하라 주리의 라이트급 타이틀전이 열렸다."
   },
   {
     "question": "머큐리는 블랙컴뱃 라이트급 한국 선수이다.",
@@ -3855,7 +4044,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "머큐리(Flavio Santos)는 브라질 선수이다."
   },
   {
     "question": "문기범(직쏘)은 블랙컴뱃 13 라이트급 타이틀전에 출전했다.",
@@ -3864,7 +4054,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "블랙컴뱃 13에서 오하라 주리와 라이트급 타이틀전을 치렀다."
   },
   {
     "question": "블랙컴뱃 웰터급 1위 헌츠맨(Sultan Omarov)의 국적은?",
@@ -3875,7 +4066,8 @@
       "몽골"
     ],
     "answer": 2,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "Sultan Omarov(헌츠맨)은 카자흐스탄 출신 무패 웰터급 선수이다."
   },
   {
     "question": "코리안 갱스터라는 별명을 가진 웰터급 선수는?",
@@ -3886,7 +4078,8 @@
       "Luan Santiago"
     ],
     "answer": 1,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "박원식의 별명이 코리안 갱스터이며 세계 8위 선수를 격파한 바 있다."
   },
   {
     "question": "레오파드(Luan Santiago)는 어느 나라 선수인가?",
@@ -3897,7 +4090,8 @@
       "브라질"
     ],
     "answer": 3,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "Luan Santiago(레오파드)는 브라질 출신 웰터급 선수이다."
   },
   {
     "question": "동백이라는 별명을 가진 웰터급 선수는?",
@@ -3908,7 +4102,8 @@
       "Sultan Omarov"
     ],
     "answer": 1,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "진태호의 별명이 동백이며 웰터급에서 활동한다."
   },
   {
     "question": "초대 웰터급 챔피언 야차의 본명은?",
@@ -3919,7 +4114,8 @@
       "오일학"
     ],
     "answer": 2,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "최준서의 별명이 야차이며 초대 웰터급 챔피언이었다."
   },
   {
     "question": "박원식은 세계 8위 선수를 격파한 적이 있다.",
@@ -3928,7 +4124,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "박원식(코리안 갱스터)은 세계 8위 선수를 꺾으며 웰터급 돌풍을 예고했다."
   },
   {
     "question": "오일학(킹콩)은 웰터급에서도 활동하고 있다.",
@@ -3937,7 +4134,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "오일학은 미들급 챔피언이면서 웰터급에서도 활동하는 2체급 선수이다."
   },
   {
     "question": "헌츠맨은 블랙컴뱃 웰터급 한국 선수이다.",
@@ -3946,7 +4144,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "헌츠맨(Sultan Omarov)은 카자흐스탄 선수이다."
   },
   {
     "question": "코리안 갱스터 박원식은 블랙컴뱃 웰터급에서 돌풍을 예고했다.",
@@ -3955,7 +4154,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "세계 랭킹 상위 선수를 격파하며 웰터급 타이틀 도전을 예고했다."
   },
   {
     "question": "블랙컴뱃 웰터급의 체중 범위는 70.5~77.1kg이다.",
@@ -3964,7 +4164,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "웰터급은 70.5kg 이상 77.1kg 이하이다."
   },
   {
     "question": "블랙컴뱃 미들급 챔피언 오일학의 별명은?",
@@ -3975,7 +4176,8 @@
       "캡틴 하남"
     ],
     "answer": 1,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "오일학의 별명은 킹콩이며 미들급 챔피언이자 웰터급에서도 활동한다."
   },
   {
     "question": "타노스(Eduardo Garvon)는 어느 나라 선수인가?",
@@ -3986,7 +4188,8 @@
       "브라질"
     ],
     "answer": 3,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "Eduardo Garvon(타노스)은 브라질 출신 미들급 상위 선수이다."
   },
   {
     "question": "사무라이(Patrick Kelvin)는 어느 나라 선수인가?",
@@ -3997,7 +4200,8 @@
       "브라질"
     ],
     "answer": 3,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "Patrick Kelvin(사무라이)은 브라질 출신 미들급/웰터급 선수이다."
   },
   {
     "question": "캡틴 하남이라는 별명을 가진 미들급 선수는?",
@@ -4008,7 +4212,8 @@
       "Sato Ryutaro"
     ],
     "answer": 2,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "최재현의 별명이 캡틴 하남이며 미들급에서 활동한다."
   },
   {
     "question": "Momo(Sato Ryutaro)는 어느 나라 선수인가?",
@@ -4019,7 +4224,8 @@
       "독일"
     ],
     "answer": 1,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "Sato Ryutaro(Momo)는 일본 출신 미들급 선수이다."
   },
   {
     "question": "블랙컴뱃 13에서 미들급 타이틀전이 열렸다.",
@@ -4028,7 +4234,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "오일학(킹콩) vs 최원준의 미들급 타이틀전이 열렸다."
   },
   {
     "question": "오일학(킹콩)은 미들급과 웰터급 모두에서 활동한다.",
@@ -4037,7 +4244,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "오일학은 미들급 챔피언이면서 웰터급 랭킹에도 이름을 올리고 있다."
   },
   {
     "question": "블랙컴뱃 13 미들급 타이틀전에서 오일학의 상대는 최원준이었다.",
@@ -4046,7 +4254,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "최원준이 미들급 타이틀에 도전했다."
   },
   {
     "question": "타노스는 블랙컴뱃 미들급 한국 선수이다.",
@@ -4055,7 +4264,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "타노스(Eduardo Garvon)는 브라질 선수이다."
   },
   {
     "question": "사무라이 Patrick Kelvin은 블랙컴뱃 미들급 일본 선수이다.",
@@ -4064,7 +4274,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "Patrick Kelvin은 브라질 선수이다."
   },
   {
     "question": "블랙컴뱃 헤비급 챔피언 양해준의 별명은?",
@@ -4075,7 +4286,8 @@
       "Boss Baby"
     ],
     "answer": 1,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "양해준의 별명은 The Big Guy이며 Road FC 미들급 챔피언 출신이다."
   },
   {
     "question": "짱돌이라는 별명을 가진 헤비급 선수는?",
@@ -4086,7 +4298,8 @@
       "Richard Jacobi"
     ],
     "answer": 1,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "차정환의 별명이 짱돌이며 헤비급에서 활동한다."
   },
   {
     "question": "맘모스라는 별명을 가진 헤비급 선수는?",
@@ -4097,7 +4310,8 @@
       "O'Shay Jordan"
     ],
     "answer": 2,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "김명환의 별명이 맘모스이며 헤비급에서 활동한다."
   },
   {
     "question": "Boss Baby(Richard Jacobi)는 어느 나라 선수인가?",
@@ -4108,7 +4322,8 @@
       "영국"
     ],
     "answer": 2,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "Richard Jacobi(Boss Baby)는 독일 출신 헤비급 선수이다."
   },
   {
     "question": "Jackpot(O'Shay Jordan)은 어느 나라 선수인가?",
@@ -4119,7 +4334,8 @@
       "영국"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "O'Shay Jordan(Jackpot)은 미국 출신 헤비급 선수이다."
   },
   {
     "question": "양해준은 Road FC 미들급 챔피언 출신이다.",
@@ -4128,7 +4344,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "양해준은 Road FC 미들급 챔피언 출신으로 블랙컴뱃 헤비급에서 활동한다."
   },
   {
     "question": "양해준은 블랙컴뱃 03 메인이벤트에 출전했다.",
@@ -4137,7 +4354,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "블랙컴뱃 03에서 최원준과 중량급 메인이벤트를 치렀다."
   },
   {
     "question": "블랙컴뱃 헤비급의 체중 상한은 120kg이다.",
@@ -4146,7 +4364,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "헤비급은 84.1~120kg이며 블랙컴뱃에서 가장 무거운 체급이다."
   },
   {
     "question": "Boss Baby는 블랙컴뱃 헤비급 한국 선수이다.",
@@ -4155,7 +4374,8 @@
       "X"
     ],
     "answer": 1,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "Boss Baby(Richard Jacobi)는 독일 선수이다."
   },
   {
     "question": "짱돌 차정환은 블랙컴뱃 헤비급 한국 선수이다.",
@@ -4164,7 +4384,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "차정환(짱돌)은 한국 출신 헤비급 선수이다."
   },
   {
     "question": "김관장이라는 별명을 가진 플라이급 선수의 본명은?",
@@ -4175,7 +4396,8 @@
       "김동환"
     ],
     "answer": 1,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "김성재의 별명이 김관장이며 프로오디션 시즌1 참가자이기도 하다."
   },
   {
     "question": "앤쵸비라는 별명을 가진 플라이급 선수는?",
@@ -4186,7 +4408,8 @@
       "이영웅"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "박태호의 별명이 앤쵸비이며 플라이급에서 활동한다."
   },
   {
     "question": "아마존 키드(Thomas Assis)는 블랙컴뱃 플라이급 브라질 선수이다.",
@@ -4195,7 +4418,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "Thomas Assis(아마존 키드)는 브라질 출신으로 블랙컴뱃 15 타이틀전 도전자였다."
   },
   {
     "question": "투견이라는 별명을 가진 플라이급 선수는?",
@@ -4206,7 +4430,8 @@
       "이선하"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "정원희의 별명이 투견이며 플라이급에서 활동한다."
   },
   {
     "question": "부기맨(Rangel dos Santos)은 블랙컴뱃 플라이급 선수이다.",
@@ -4215,7 +4440,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "브라질 출신 Rangel dos Santos(부기맨)는 플라이급 선수이다."
   },
   {
     "question": "Sniper(Isiah Torres)는 블랙컴뱃 플라이급 선수이다.",
@@ -4224,7 +4450,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "Isiah Torres(Sniper)는 플라이급에서 활동하는 선수이다."
   },
   {
     "question": "Mr. Choke(이민주)는 블랙컴뱃 플라이급 선수이다.",
@@ -4233,7 +4460,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "이민주(Mr. Choke)는 플라이급에서 활동하는 한국 선수이다."
   },
   {
     "question": "Pitbull(Tiago Xavier)은 블랙컴뱃 플라이급 선수이다.",
@@ -4242,7 +4470,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "Tiago Xavier(Pitbull)는 플라이급에서 활동하는 선수이다."
   },
   {
     "question": "Ninja(Yamasaki Sora)는 어느 나라 선수인가?",
@@ -4253,7 +4482,8 @@
       "미국"
     ],
     "answer": 1,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "Yamasaki Sora(Ninja)는 일본 출신 플라이급 선수이다."
   },
   {
     "question": "Metal Lee(핫토리 슈토)는 블랙컴뱃 플라이급 일본 선수이다.",
@@ -4262,7 +4492,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "핫토리 슈토(Metal Lee)는 일본 출신 플라이급 선수이다."
   },
   {
     "question": "매드독(김민우)은 블랙컴뱃 플라이급 선수이다.",
@@ -4271,7 +4502,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "김민우(매드독)는 플라이급에서 활동한다. 페더급 모아이 김민우와 동명이인."
   },
   {
     "question": "조커(정도한)는 블랙컴뱃 플라이급 선수이다.",
@@ -4280,7 +4512,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "정도한(조커)은 프로오디션 시즌1 팀장 출신으로 플라이급에서 활동한다."
   },
   {
     "question": "도깨비발(이선하)은 블랙컴뱃 플라이급 선수이다.",
@@ -4289,7 +4522,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "이선하(도깨비발)는 플라이급에서 활동하는 선수이다."
   },
   {
     "question": "김관장 김성재는 프로오디션 시즌1 참가자이다.",
@@ -4298,7 +4532,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 플라이급"
+    "category": "선수: 플라이급",
+    "explanation": "김성재(김관장)는 프로오디션 시즌1에 프로 선수로 참가했다."
   },
   {
     "question": "불도저(정경열)는 블랙컴뱃 밴텀급 선수이다.",
@@ -4307,7 +4542,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "정경열(불도저)은 밴텀급에서 활동하는 선수이다."
   },
   {
     "question": "골든보이(Matheus Correia)는 어느 나라 선수인가?",
@@ -4318,7 +4554,8 @@
       "카자흐스탄"
     ],
     "answer": 2,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "Matheus Correia(골든보이)는 브라질 출신 무패 밴텀급 선수이다."
   },
   {
     "question": "쿠르드 이글(Ruslan Amuyev)은 블랙컴뱃 밴텀급 선수이다.",
@@ -4327,7 +4564,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "Ruslan Amuyev(쿠르드 이글)은 무패 밴텀급 선수이다."
   },
   {
     "question": "빅마우스라는 별명을 가진 밴텀급 선수는?",
@@ -4338,7 +4576,8 @@
       "홍종태"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "김동규의 별명이 빅마우스이며 밴텀급에서 활동한다."
   },
   {
     "question": "구아라(Marcelo Guarilha)의 국적은?",
@@ -4349,7 +4588,8 @@
       "카자흐스탄"
     ],
     "answer": 2,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "Marcelo Guarilha(구아라)는 브라질 출신으로 경험 많은 밴텀급 선수이다."
   },
   {
     "question": "스컬(Ruslan Sariyev)은 블랙컴뱃 밴텀급 선수이다.",
@@ -4358,7 +4598,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "Ruslan Sariyev(스컬)은 밴텀급에서 활동하는 선수이다."
   },
   {
     "question": "홀리 비스트(김대환)는 블랙컴뱃 밴텀급 선수이다.",
@@ -4367,7 +4608,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "김대환(홀리 비스트)은 밴텀급에서 활동하는 선수이다."
   },
   {
     "question": "잉카(Miguel Meza)는 블랙컴뱃 밴텀급 선수이다.",
@@ -4376,7 +4618,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "Miguel Meza(잉카)는 밴텀급에서 활동하는 선수이다."
   },
   {
     "question": "찐홍이(홍종태)는 블랙컴뱃 밴텀급 선수이다.",
@@ -4385,7 +4628,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "홍종태(찐홍이)는 밴텀급에서 활동하는 선수이다."
   },
   {
     "question": "옐로우 몽키(임정민)는 프로오디션 시즌1 참가자이자 밴텀급 선수이다.",
@@ -4394,7 +4638,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "임정민(옐로우 몽키)은 프로오디션 시즌1에 프로 선수로 참가한 밴텀급 선수이다."
   },
   {
     "question": "해적왕(이강남)은 블랙컴뱃 밴텀급 선수이다.",
@@ -4403,7 +4648,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "이강남(해적왕)은 블랙컴뱃 09에서 바이퍼와 플라이급 타이틀전을 치른 선수이다."
   },
   {
     "question": "매드카우(이성원)는 프로오디션 시즌1 참가자이자 밴텀급 선수이다.",
@@ -4412,7 +4658,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 밴텀급"
+    "category": "선수: 밴텀급",
+    "explanation": "이성원(매드카우)은 프로오디션 시즌1 참가자 출신이다."
   },
   {
     "question": "손오찬(손유찬)은 블랙컴뱃 페더급 선수이다.",
@@ -4421,7 +4668,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "손유찬(손오찬)은 페더급에서 활동하는 선수이다."
   },
   {
     "question": "TRG(Felipe Pereira)는 어느 나라 선수인가?",
@@ -4432,7 +4680,8 @@
       "카자흐스탄"
     ],
     "answer": 2,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "Felipe Pereira(TRG)는 브라질 출신으로 페더급/라이트급에서 활동한다."
   },
   {
     "question": "야인(이도겸)은 블랙컴뱃 페더급 선수이다.",
@@ -4441,7 +4690,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "이도겸(야인)은 페더급에서 활동하는 선수이다."
   },
   {
     "question": "모카(Leonardo Diniz)는 어느 나라 선수인가?",
@@ -4452,7 +4702,8 @@
       "독일"
     ],
     "answer": 2,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "Leonardo Diniz(모카)는 브라질 출신 페더급 선수이다."
   },
   {
     "question": "광남(신승민)은 블랙컴뱃 페더급 선수이다.",
@@ -4461,7 +4712,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "신승민(광남)은 페더급에서 활동하는 선수이다."
   },
   {
     "question": "붉은매(지혁민)는 블랙컴뱃 페더급 선수이다.",
@@ -4470,7 +4722,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "지혁민(붉은매)은 페더급에서 활동하는 선수이다."
   },
   {
     "question": "Striker(Victor Hugo)는 블랙컴뱃 페더급 선수이다.",
@@ -4479,7 +4732,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "Victor Hugo(Striker)는 페더급에서 활동하는 선수이다."
   },
   {
     "question": "코리안 불도저(남의철)는 블랙컴뱃 페더급 선수이다.",
@@ -4488,7 +4742,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "남의철(코리안 불도저)은 경험 많은 페더급 선수이다."
   },
   {
     "question": "Thor(Toma Mitsuhiro)는 블랙컴뱃 페더급 일본 선수이다.",
@@ -4497,7 +4752,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "Toma Mitsuhiro(Thor)는 일본 출신 페더급 선수이다."
   },
   {
     "question": "타우르스(박병혁)는 블랙컴뱃 페더급 선수이다.",
@@ -4506,7 +4762,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "박병혁(타우르스)은 페더급에서 활동하는 선수이다."
   },
   {
     "question": "피니셔(황준호)는 블랙컴뱃 페더급 선수이다.",
@@ -4515,7 +4772,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 페더급"
+    "category": "선수: 페더급",
+    "explanation": "황준호(피니셔)는 페더급에서 활동하는 선수이다."
   },
   {
     "question": "아이언 스파이더(오하라 주리)는 어느 나라 선수인가?",
@@ -4526,7 +4784,8 @@
       "미국"
     ],
     "answer": 1,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "오하라 주리(아이언 스파이더)는 일본 출신 라이트급 베테랑 선수이다."
   },
   {
     "question": "헌터(박종헌)는 프로오디션 시즌1 참가자이자 라이트급 선수이다.",
@@ -4535,7 +4794,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "박종헌(헌터)은 프로오디션 시즌1에 프로 선수로 참가한 라이트급 선수이다."
   },
   {
     "question": "곰주먹(김정균)은 프로오디션 시즌1 우승자이자 라이트급 선수이다.",
@@ -4544,7 +4804,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "김정균(곰주먹)은 프로오디션 시즌1 우승 후 블랙컴뱃 02 라이트급에 출전했다."
   },
   {
     "question": "영타이거(이영훈)는 프로오디션 시즌1 참가자이자 라이트급 선수이다.",
@@ -4553,7 +4814,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "이영훈(영타이거)은 프로오디션 시즌1 참가자 출신 라이트급 선수이다."
   },
   {
     "question": "그루트(정용완)는 블랙컴뱃 라이트급 선수이다.",
@@ -4562,7 +4824,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "정용완(그루트)은 라이트급에서 활동하는 선수이다."
   },
   {
     "question": "Lion King(Chuka Willis)은 블랙컴뱃 라이트급 선수이다.",
@@ -4571,7 +4834,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "Chuka Willis(Lion King)은 라이트급에서 활동하는 선수이다."
   },
   {
     "question": "Grizzly(Yamamoto Takuya)는 어느 나라 선수인가?",
@@ -4582,7 +4846,8 @@
       "미국"
     ],
     "answer": 1,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "Yamamoto Takuya(Grizzly)는 일본 출신 라이트급 선수이다."
   },
   {
     "question": "파라오(Youssef Barakat)는 블랙컴뱃 라이트급 선수이다.",
@@ -4591,7 +4856,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "Youssef Barakat(파라오)은 라이트급에서 활동하는 선수이다."
   },
   {
     "question": "사쿠라(황도윤)는 블랙컴뱃 라이트급 선수이다.",
@@ -4600,7 +4866,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "황도윤(사쿠라)은 라이트급에서 활동하는 선수이다."
   },
   {
     "question": "워리어(정영제)는 블랙컴뱃 라이트급 선수이다.",
@@ -4609,7 +4876,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 라이트급"
+    "category": "선수: 라이트급",
+    "explanation": "정영제(워리어)는 라이트급에서 활동하는 선수이다."
   },
   {
     "question": "Viking(Lucas Marques)은 어느 나라 선수인가?",
@@ -4620,7 +4888,8 @@
       "독일"
     ],
     "answer": 2,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "Lucas Marques(Viking)은 브라질 출신 웰터급 선수이다."
   },
   {
     "question": "블랙맘바(김율)는 블랙컴뱃 웰터급 선수이다.",
@@ -4629,7 +4898,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "김율(블랙맘바)은 웰터급에서 활동하는 선수이다."
   },
   {
     "question": "블랙리스트(박찬솔)는 블랙컴뱃 웰터급 선수이다.",
@@ -4638,7 +4908,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "박찬솔의 별명이 블랙리스트이며 웰터급에서 활동한다."
   },
   {
     "question": "쿠빌라이(Batmunkh Burenzorig)는 어느 나라 선수인가?",
@@ -4649,7 +4920,8 @@
       "브라질"
     ],
     "answer": 2,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "Batmunkh Burenzorig(쿠빌라이)은 몽골 출신 웰터급 선수이다."
   },
   {
     "question": "방탄(김민석)은 블랙컴뱃 웰터급 선수이다.",
@@ -4658,7 +4930,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "김민석(방탄)은 웰터급에서 활동하는 선수이다."
   },
   {
     "question": "Oni(Tanaka Yu)는 어느 나라 선수인가?",
@@ -4669,7 +4942,8 @@
       "독일"
     ],
     "answer": 1,
-    "category": "선수: 웰터급"
+    "category": "선수: 웰터급",
+    "explanation": "Tanaka Yu(Oni)는 일본 출신 웰터급 선수이다."
   },
   {
     "question": "예티(Lucas Paredes)는 블랙컴뱃 미들급 선수이다.",
@@ -4678,7 +4952,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "Lucas Paredes(예티)는 미들급에서 활동하는 선수이다."
   },
   {
     "question": "엄지장군(여동주)은 블랙컴뱃 미들급 선수이다.",
@@ -4687,7 +4962,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "여동주(엄지장군)은 미들급에서 활동하는 선수이다."
   },
   {
     "question": "Phoenix(Marcos Vinicius)는 블랙컴뱃 미들급 선수이다.",
@@ -4696,7 +4972,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "Marcos Vinicius(Phoenix)는 미들급에서 활동하는 선수이다."
   },
   {
     "question": "Dementor(Dylan O'Sullivan)은 블랙컴뱃 미들급 선수이다.",
@@ -4705,7 +4982,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "Dylan O'Sullivan(Dementor)은 미들급에서 활동하는 선수이다."
   },
   {
     "question": "선봉장(최순태)은 블랙컴뱃 미들급 선수이다.",
@@ -4714,7 +4992,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 미들급"
+    "category": "선수: 미들급",
+    "explanation": "최순태(선봉장)은 미들급에서 활동하는 선수이다."
   },
   {
     "question": "슬라임(정민훈)은 블랙컴뱃 헤비급 선수이다.",
@@ -4723,7 +5002,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "정민훈(슬라임)은 헤비급에서 활동하는 선수이다."
   },
   {
     "question": "Hiroshima(Oban Takaaki)는 어느 나라 선수인가?",
@@ -4734,7 +5014,8 @@
       "독일"
     ],
     "answer": 1,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "Oban Takaaki(Hiroshima)는 일본 출신 헤비급 선수이다."
   },
   {
     "question": "스콜피온(알리조다)은 블랙컴뱃 헤비급 선수이다.",
@@ -4743,7 +5024,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "알리조다(스콜피온)은 헤비급에서 활동하는 선수이다."
   },
   {
     "question": "팩맨(전호철)은 블랙컴뱃 헤비급 선수이다.",
@@ -4752,7 +5034,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "전호철(팩맨)은 헤비급에서 활동하는 선수이다."
   },
   {
     "question": "아수라(김동환)는 프로오디션 시즌1 참가자이자 헤비급 선수이다.",
@@ -4761,7 +5044,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "김동환(아수라)은 프로오디션 시즌1의 유일한 일반인 참가자였으며 헤비급 선수이다."
   },
   {
     "question": "알밤(이종구)은 블랙컴뱃 헤비급 선수이다.",
@@ -4770,7 +5054,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수: 헤비급"
+    "category": "선수: 헤비급",
+    "explanation": "이종구(알밤)은 헤비급에서 활동하는 선수이다."
   },
   {
     "question": "짱구(전수민)는 블랙컴뱃 여성부 선수이다.",
@@ -4779,7 +5064,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "전수민(짱구)은 블랙컴뱃 여성부에서 활동하는 선수이다."
   },
   {
     "question": "고스트(홍예린)는 블랙컴뱃 여성부 선수이다.",
@@ -4788,7 +5074,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "홍예린(고스트)은 블랙컴뱃 여성부에서 활동하는 선수이다."
   },
   {
     "question": "Barbie(히라타 아야네)는 블랙컴뱃 여성부 일본 선수이다.",
@@ -4797,7 +5084,8 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "히라타 아야네(Barbie)는 일본 출신 블랙컴뱃 여성부 선수이다."
   },
   {
     "question": "GodFather(검정)는 블랙컴뱃 언더그라운드 챔피언이다.",
@@ -4806,6 +5094,259 @@
       "X"
     ],
     "answer": 0,
-    "category": "선수/챔피언"
+    "category": "선수/챔피언",
+    "explanation": "검정(박평화)은 블랙컴뱃 대표이자 언더그라운드 챔피언이다."
+  },
+  {
+    "question": "전투력측정기는 격투기 선수들의 능력을 분석하는 유튜브 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 전투력측정기",
+    "explanation": "전투력측정기는 격투기 선수들의 전투력을 분석하고 평가하는 콘텐츠를 제작한다."
+  },
+  {
+    "question": "전투력측정기는 블랙컴뱃 선수들의 경기를 분석하는 콘텐츠를 제작한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 전투력측정기",
+    "explanation": "블랙컴뱃을 포함한 격투기 선수들의 전투력 분석 영상을 제작한다."
+  },
+  {
+    "question": "전투력측정기는 블랙컴뱃 공식 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 전투력측정기",
+    "explanation": "전투력측정기는 독립 격투기 분석 채널이며, 블랙컴뱃 공식 채널은 무채색필름이다."
+  },
+  {
+    "question": "에이든유지는 격투기 관련 유튜브 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 에이든유지",
+    "explanation": "에이든유지는 격투기 관련 콘텐츠를 제작하는 유튜브 채널이다."
+  },
+  {
+    "question": "에이든유지는 블랙컴뱃 관련 콘텐츠를 다루고 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 에이든유지",
+    "explanation": "에이든유지는 블랙컴뱃 경기 리뷰 등 관련 콘텐츠를 제작한다."
+  },
+  {
+    "question": "에이든유지는 블랙컴뱃의 공식 해설 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 에이든유지",
+    "explanation": "에이든유지는 독립 콘텐츠 채널이며 공식 해설 채널이 아니다."
+  },
+  {
+    "question": "뚱관장은 격투기 관련 유튜브 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 뚱관장",
+    "explanation": "뚱관장은 격투기/체육관 운영 관련 콘텐츠를 제작하는 유튜브 채널이다."
+  },
+  {
+    "question": "뚱관장은 블랙컴뱃 관련 콘텐츠를 다루고 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 뚱관장",
+    "explanation": "뚱관장은 블랙컴뱃 관련 리뷰 및 격투기 콘텐츠를 다룬다."
+  },
+  {
+    "question": "뚱관장은 블랙컴뱃 소속 선수이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 뚱관장",
+    "explanation": "뚱관장은 격투기 유튜버이며 블랙컴뱃 소속 선수가 아니다."
+  },
+  {
+    "question": "블랙퍼피는 격투기 관련 유튜브 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 블랙퍼피",
+    "explanation": "블랙퍼피는 격투기 관련 콘텐츠를 제작하는 유튜브 채널이다."
+  },
+  {
+    "question": "블랙퍼피는 블랙컴뱃 경기 리뷰를 다루는 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 블랙퍼피",
+    "explanation": "블랙퍼피는 블랙컴뱃 경기 분석 및 리뷰 콘텐츠를 제작한다."
+  },
+  {
+    "question": "블랙퍼피는 블랙컴뱃의 공식 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 블랙퍼피",
+    "explanation": "블랙퍼피는 독립 격투기 채널이며, 블랙컴뱃 공식 채널은 무채색필름이다."
+  },
+  {
+    "question": "홍캐는 격투기 관련 유튜브 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 홍캐",
+    "explanation": "홍캐는 격투기 관련 콘텐츠를 제작하는 유튜브 채널이다."
+  },
+  {
+    "question": "홍캐는 블랙컴뱃 관련 콘텐츠를 다루고 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 홍캐",
+    "explanation": "홍캐는 블랙컴뱃을 포함한 격투기 콘텐츠를 다루는 채널이다."
+  },
+  {
+    "question": "홍캐는 블랙컴뱃 소속 선수이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 홍캐",
+    "explanation": "홍캐는 격투기 유튜버이며 블랙컴뱃 소속 선수가 아니다."
+  },
+  {
+    "question": "양감독TV를 운영하는 양성훈 감독은 어떤 팀의 수장인가?",
+    "options": [
+      "블랙컴뱃짐",
+      "팀매드",
+      "코리안좀비MMA",
+      "스턴건짐"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 양감독TV",
+    "explanation": "양성훈 감독은 부산 소재 MMA 명문 팀매드의 수장이다."
+  },
+  {
+    "question": "양감독TV의 구독자 수는 약 몇 만 명인가?",
+    "options": [
+      "약 20만",
+      "약 38만",
+      "약 58만",
+      "약 80만"
+    ],
+    "answer": 2,
+    "category": "관련 유튜버: 양감독TV",
+    "explanation": "양감독TV는 구독자 약 58만 명의 대형 격투기 유튜브 채널이다."
+  },
+  {
+    "question": "팀매드의 본관은 어디에 위치하는가?",
+    "options": [
+      "서울",
+      "인천",
+      "부산",
+      "대구"
+    ],
+    "answer": 2,
+    "category": "관련 유튜버: 양감독TV",
+    "explanation": "팀매드 본관은 부산 대신동에 위치하며 전국에 여러 지부가 있다."
+  },
+  {
+    "question": "매미킴TV를 운영하는 격투기 선수는?",
+    "options": [
+      "정찬성",
+      "김동현",
+      "추성훈",
+      "최두호"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 매미킴TV",
+    "explanation": "매미킴TV는 UFC 출신 격투기 선수 김동현이 운영하는 채널이다."
+  },
+  {
+    "question": "김동현의 별명 '매미'는 어떤 기술 스타일에서 유래했는가?",
+    "options": [
+      "타격",
+      "레슬링",
+      "서브미션",
+      "클린치"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 매미킴TV",
+    "explanation": "싱글랙 후 끈질기게 달라붙는 레슬링 스타일이 매미 같다고 해서 붙은 별명이다."
+  },
+  {
+    "question": "매미킴TV의 구독자 수는 약 몇 만 명인가?",
+    "options": [
+      "약 30만",
+      "약 50만",
+      "약 70만",
+      "약 91만"
+    ],
+    "answer": 3,
+    "category": "관련 유튜버: 매미킴TV",
+    "explanation": "매미킴TV는 구독자 약 91만 명의 격투기 유튜브 채널이다."
+  },
+  {
+    "question": "익스트림컴뱃팀은 격투기 관련 유튜브 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 익스트림컴뱃팀",
+    "explanation": "익스트림컴뱃팀은 격투기 훈련 및 관련 콘텐츠를 제작하는 채널이다."
+  },
+  {
+    "question": "익스트림컴뱃팀은 블랙컴뱃 관련 콘텐츠를 다루고 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 0,
+    "category": "관련 유튜버: 익스트림컴뱃팀",
+    "explanation": "익스트림컴뱃팀은 블랙컴뱃을 포함한 격투기 콘텐츠를 다룬다."
+  },
+  {
+    "question": "익스트림컴뱃팀은 블랙컴뱃의 공식 훈련 채널이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "category": "관련 유튜버: 익스트림컴뱃팀",
+    "explanation": "익스트림컴뱃팀은 독립 채널이며, 블랙컴뱃 공식 훈련 채널이 아니다."
   }
 ]

@@ -21,7 +21,15 @@
       "Bash(node add-all-fighters.js)",
       "Bash(rm add-all-fighters.js)",
       "Bash(node -e \"const j=require\\(''''fs''''\\).readFileSync\\(0,''''utf8''''\\);const p=JSON.parse\\(j\\);console.log\\(JSON.stringify\\(p.projects[''''oxwar-client''''].architect.build.options.outputPath\\)\\)\")",
-      "Bash(ls C:/Users/parks/projects/oxwar/oxwar/gradlew*)"
+      "Bash(ls C:/Users/parks/projects/oxwar/oxwar/gradlew*)",
+      "Bash(node add-explanations.js)",
+      "Bash(rm add-explanations.js)",
+      "Bash(node fix-explanations.js)",
+      "Bash(rm fix-explanations.js)",
+      "Bash(node fix2.js)",
+      "Bash(rm fix2.js)",
+      "Bash(node add-youtubers.js)",
+      "Bash(rm add-youtubers.js)"
     ]
   }
 }

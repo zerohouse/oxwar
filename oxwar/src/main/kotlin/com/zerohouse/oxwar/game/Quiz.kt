@@ -5,4 +5,5 @@ data class Quiz(
     val options: List<String>,
     val answer: Int,
     val category: String = "",
+    val explanation: String = "",
 )

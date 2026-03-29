@@ -17,6 +17,7 @@ data class SeedQuiz(
     val options: List<String>,
     val answer: Int,
     val category: String = "",
+    val explanation: String = "",
 )
 
 @Component
@@ -94,6 +95,7 @@ class SeedLoader(private val themeRepository: ThemeRepository) : ApplicationRunn
                     options = mapper.writeValueAsString(q.options),
                     answer = q.answer,
                     category = q.category,
+                    explanation = q.explanation,
                     sortOrder = i,
                 )
             )
