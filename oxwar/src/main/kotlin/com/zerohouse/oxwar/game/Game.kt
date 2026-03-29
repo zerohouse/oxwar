@@ -89,7 +89,7 @@ class Game(val themeSlug: String, quizList: List<Quiz>) {
                 val newStreak = p.streak + 1
                 val comboBonus = minOf(newStreak, 5)
                 val milestoneBonus = if (newStreak >= 10 && newStreak % 10 == 0) 100 else 0
-                val newScore = p.score + (comboBonus * wrongCount) + milestoneBonus
+                val newScore = p.score + comboBonus + (comboBonus * wrongCount) + milestoneBonus
                 scores[p.id] = newScore
                 streaks[p.id] = newStreak
                 p.copy(score = newScore, streak = newStreak)
