@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Angular Client" type="js.build_tools.npm" factoryName="npm">
+    <package-json value="$PROJECT_DIR$/oxwar-client/package.json" />
+    <command value="start" />
+    <method v="2" />
+  </configuration>
+</component>

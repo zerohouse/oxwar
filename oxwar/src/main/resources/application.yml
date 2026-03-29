@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: oxwar
+  rsocket:
+    server:
+      transport: websocket
+      mapping-path: /rsocket
+  datasource:
+    url: jdbc:postgresql://localhost:5432/oxwar
+    username: oxwar
+    password: oxwar
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+
+openrouter:
+  api-key: ${OPENROUTER_API_KEY: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}
+
+oxwar:
+  admin-uuid: ${ADMIN_UUID:}
+
+server:
+  port: 8920

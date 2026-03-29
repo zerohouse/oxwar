@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(find /c/Users/parks/projects/oxwar -type f -name *.kt)",
+      "Bash(grep -r \"persistence\\\\|jpa\\\\|hibernate\\\\|database\\\\|datasource\" /c/Users/parks/projects/oxwar/oxwar/src --include=*.kt --include=*.gradle* --include=*.yml --include=*.properties -i)",
+      "Bash(npx ng:*)",
+      "Bash(./gradlew compileKotlin)",
+      "Bash(./gradlew clean:*)",
+      "WebSearch",
+      "WebFetch(domain:openrouter.ai)",
+      "WebFetch(domain:namu.wiki)",
+      "WebFetch(domain:ko.wikipedia.org)",
+      "WebFetch(domain:www.blackcombat-official.com)",
+      "WebFetch(domain:m.dcinside.com)",
+      "WebFetch(domain:gall.dcinside.com)",
+      "Bash(node -e \":*)",
+      "Bash(node add-fighters.js)",
+      "Bash(rm add-fighters.js)",
+      "Bash(node add-all-fighters.js)",
+      "Bash(rm add-all-fighters.js)",
+      "Bash(node -e \"const j=require\\(''''fs''''\\).readFileSync\\(0,''''utf8''''\\);const p=JSON.parse\\(j\\);console.log\\(JSON.stringify\\(p.projects[''''oxwar-client''''].architect.build.options.outputPath\\)\\)\")",
+      "Bash(ls C:/Users/parks/projects/oxwar/oxwar/gradlew*)"
+    ]
+  }
+}

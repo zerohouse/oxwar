@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OxwarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="com.zerohouse.oxwar.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.zerohouse.oxwar.OxwarApplicationKt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

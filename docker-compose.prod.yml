@@ -1,0 +1,33 @@
+services:
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: oxwar
+      POSTGRES_USER: oxwar
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-oxwar}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: always
+
+  server:
+    image: ghcr.io/${GITHUB_REPO:-oxwar}/server:latest
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/oxwar
+      SPRING_DATASOURCE_USERNAME: oxwar
+      SPRING_DATASOURCE_PASSWORD: ${DB_PASSWORD:-oxwar}
+      OPENROUTER_API_KEY: ${OPENROUTER_API_KEY:-}
+      ADMIN_UUID: ${ADMIN_UUID:-}
+    depends_on:
+      - postgres
+    restart: always
+
+  client:
+    image: ghcr.io/${GITHUB_REPO:-oxwar}/client:latest
+    ports:
+      - "${PORT:-80}:80"
+    depends_on:
+      - server
+    restart: always
+
+volumes:
+  pgdata:
