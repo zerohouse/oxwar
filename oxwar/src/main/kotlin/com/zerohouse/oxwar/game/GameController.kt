@@ -15,7 +15,7 @@ import org.springframework.stereotype.Controller
 import java.util.concurrent.ConcurrentHashMap
 import kotlinx.coroutines.CoroutineScope
 
-data class JoinRequest(val theme: String = "default", val uuid: String? = null)
+data class JoinRequest(val theme: String = "default", val uuid: String? = null, val nickname: String? = null)
 data class MoveRequest(val posX: Double = 0.5, val posY: Double = 0.5)
 data class ChatRequest(val message: String = "")
 data class NicknameRequest(val nickname: String = "")
@@ -54,7 +54,7 @@ class GameController(
             uuidToRequester[uuid] = requester
         }
 
-        val id = NicknameGenerator.generate()
+        val id = data.nickname?.trim()?.take(20)?.ifBlank { null } ?: NicknameGenerator.generate()
         val player = room.game.addPlayer(id, uuid)
         sessions[requester] = Session(id, uuid, room)
 
